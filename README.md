@@ -107,7 +107,7 @@ pharma_copilot/
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/pharma-analytics-copilot.git
+git clone https://github.com/ishaanms/pharma-analytics-copilot.git
 cd pharma-analytics-copilot
 
 # 2. Install dependencies

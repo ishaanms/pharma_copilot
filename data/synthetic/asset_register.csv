@@ -1,0 +1,10 @@
+asset_id,asset_type,asset_name,acquisition_date,acquisition_value_usd,current_book_value_usd,status
+ASSET_001,Manufacturing Plant,NJ Primary Manufacturing Facility,03-15-2015,85000000,52000000,ACTIVE
+ASSET_002,Manufacturing Plant,North Carolina Secondary Plant,07-01-2017,42000000,29400000,ACTIVE
+ASSET_003,Lab Equipment,QA/QC Laboratory Suite,11-20-2018,8500000,4250000,ACTIVE
+ASSET_004,Tech License,Veeva CRM Enterprise License,01-01-2019,1200000,480000,ACTIVE
+ASSET_005,Office,HQ Office — Parsippany NJ,06-30-2016,22000000,14300000,ACTIVE
+ASSET_006,Tech License,IQVIA Data Feed License,01-01-2020,950000,380000,ACTIVE
+ASSET_007,Lab Equipment,R&D Analytical Instruments,05-14-2018,3200000,1280000,ACTIVE
+ASSET_008,Vehicle Fleet,Field Force Vehicle Fleet (Gen 1),01-01-2016,4800000,0,DISPOSED
+ASSET_009,Vehicle Fleet,Field Force Vehicle Fleet (Gen 2),01-01-2021,5200000,3120000,ACTIVE

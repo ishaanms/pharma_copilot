@@ -1,0 +1,4 @@
+drug_name,company,indication,fda_approval_date,launch_date,asp_usd,ndc_code,launch_phase
+VEXORIN,OurCo Pharmaceuticals,NSCLC 2nd line treatment,06-12-2021,09-01-2021,12500.0,10001-201-30,LAST_LAUNCH
+AURONIX,OurCo Pharmaceuticals,NSCLC 2nd line treatment,03-15-2024,09-01-2024,14200.0,10001-301-30,CURRENT_LAUNCH
+ZYLATEC,CompetitorCo Pharma,NSCLC 2nd line treatment,08-20-2021,10-28-2021,13500.0,20002-401-30,LAST_LAUNCH

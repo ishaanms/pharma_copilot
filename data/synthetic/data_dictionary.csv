@@ -1,0 +1,98 @@
+table_name,column_name,description,data_type,example_value,allowed_values,required
+hcp_master,hcp_id,Unique HCP identifier in NPI format,string,NPI_001234,NPI_XXXXXX,Yes
+hcp_master,hcp_name,Doctor full name,string,Dr. Sarah Chen,—,Yes
+hcp_master,specialty,Medical specialty,string,Medical Oncologist,Medical Oncologist / Pulmonologist / Hemato-Oncologist,Yes
+hcp_master,city,Practice city,string,Boston,US cities,Yes
+hcp_master,state,Practice state (2-letter code),string,MA,US state codes,Yes
+hcp_master,hospital_affiliation,Primary hospital name,string,Dana-Farber Cancer Institute,—,Yes
+hcp_master,hospital_type,Type of institution,string,Cancer Center,Cancer Center / Teaching Hospital / Private Practice / Community Hospital,Yes
+hcp_master,decile,Prescriber potential score — 10 is highest,integer,9,1–10,Yes
+hcp_master,brand_affinity,Current prescribing preference,string,SWITCHER,VEXORIN_LOYAL / ZYLATEC_LOYAL / SWITCHER / NO_PREFERENCE,Yes
+hcp_master,monthly_rx_potential,Estimated scripts per month if fully converted,integer,12,Positive integer,Yes
+hcp_master,years_in_practice,Years since residency completion,integer,14,Positive integer,Yes
+hcp_master,kol_flag,Key Opinion Leader status,boolean,True,True / False,Yes
+hcp_master,kol_score,KOL influence score — 0 if not a KOL,integer,4,0–5,Yes
+hcp_master,territory_id,Territory this HCP belongs to,string,TER_NE_01,Links to territory_master,Yes
+rep_master,rep_id,Unique rep identifier,string,REP_001,REP_XXX,Yes
+rep_master,rep_name,Full name,string,James Whitfield,—,Yes
+rep_master,region,Sales region,string,NORTHEAST,NORTHEAST / SOUTHEAST / MIDWEST / SOUTH_CENTRAL / MOUNTAIN_WEST / PACIFIC,Yes
+rep_master,territory_id,Assigned territory — NULL for managers,string,TER_NE_01,Links to territory_master,Yes
+rep_master,total_experience_years,Total pharma sales experience in years,float,6.5,Positive float,Yes
+rep_master,onco_experience_years,Oncology-specific experience in years,float,2.0,Positive float — must be <= total_experience_years,Yes
+rep_master,designation,Job title,string,Territory Business Manager,Territory Business Manager / Senior Territory Business Manager / Regional Business Director / Area Business Manager,Yes
+rep_master,manager_id,Direct manager rep_id,string,REP_022,Links to rep_master,Yes
+rep_master,last_launch_performance,Performance quartile during VEXORIN first launch,string,Q3,Q1 (top) / Q2 / Q3 / Q4,Yes
+rep_master,status,Current employment status,string,ACTIVE,ACTIVE / ON_LEAVE / TERMINATED,Yes
+rep_master,annual_ctc_usd,Annual compensation in USD,integer,95000,Positive integer,Yes
+territory_master,territory_id,Unique territory identifier,string,TER_NE_01,TER_XX_XX,Yes
+territory_master,territory_name,Descriptive territory name,string,Boston North,—,Yes
+territory_master,region,Parent region,string,NORTHEAST,Same as rep_master,Yes
+territory_master,zone,Sub-region grouping,string,New England / Mid-Atlantic,—,Yes
+territory_master,city,Primary city in territory,string,Boston,US cities,Yes
+territory_master,state,State,string,MA,US state codes,Yes
+territory_master,total_hcps_mapped,Total HCPs in territory,integer,28,Positive integer,Yes
+territory_master,high_decile_hcps,Count of decile 7–10 HCPs in territory,integer,11,Positive integer,Yes
+territory_master,cancer_centers_count,Major cancer centers in territory,integer,2,Positive integer,Yes
+territory_master,market_potential_score,Weighted TRx potential — sum of monthly_rx_potential for all HCPs in territory,integer,340,Derived from hcp_master,Yes
+territory_master,competitor_rep_count,Estimated ZYLATEC rep count in territory — sourced from competitor_intel,integer,3,Positive integer,Yes
+call_activity,call_id,Unique call identifier,string,CALL_0000001,CALL_XXXXXXX,Yes
+call_activity,rep_id,Rep who made the call,string,REP_001,Links to rep_master,Yes
+call_activity,hcp_id,HCP visited,string,NPI_001234,Links to hcp_master,Yes
+call_activity,call_date,Date of visit,date,03-15-2024,MM-DD-YYYY,Yes
+call_activity,week_number,Week relative to launch date — launch = week 1,integer,4,1–52,Yes
+call_activity,call_type,Mode of engagement,string,F2F,F2F / Virtual / CME_Event / Conference,Yes
+call_activity,detail_quality_score,Manager-rated call quality score,integer,3,1–5 (5=best),Yes
+call_activity,samples_dropped,Starter pack left with HCP,boolean,True,True / False,Yes
+call_activity,outcome,Result of call,string,FOLLOW_UP,SOLD / NOT_SOLD / FOLLOW_UP / ACCOUNT_CLOSED,Yes
+call_activity,patient_type,Patient context discussed in call,string,NEW,NEW / CONTINUING,Yes
+call_activity,next_call_planned,Follow-up visit scheduled,boolean,True,True / False,Yes
+call_activity,launch_phase,Which launch this call belongs to,string,LAST_LAUNCH,LAST_LAUNCH / CURRENT_LAUNCH,Yes
+call_activity,drug_name,Drug being detailed,string,VEXORIN,VEXORIN (last launch) / AURONIX (current launch),Yes
+competitor_intel,intel_id,Unique record identifier,string,INTEL_000001,—,Yes
+competitor_intel,territory_id,Territory this data covers,string,TER_NE_01,Links to territory_master,Yes
+competitor_intel,week_number,Week relative to VEXORIN/AURONIX launch,integer,4,1–52,Yes
+competitor_intel,zylatec_estimated_calls,Estimated ZYLATEC rep calls in territory that week,integer,47,Positive integer — from IQVIA proxy,Yes
+competitor_intel,zylatec_market_share_pct,ZYLATEC share of NSCLC 2nd line Rx in territory,float,38.5,0–100,Yes
+competitor_intel,vexorin_market_share_pct,VEXORIN or AURONIX share of same market,float,29.2,0–100,Yes
+competitor_intel,launch_phase,Which launch period,string,LAST_LAUNCH,LAST_LAUNCH / CURRENT_LAUNCH,Yes
+competitor_intel,data_source,Vendor source for this data,string,IQVIA,IQVIA / Symphony Health / Internal Estimate,Yes
+product_master,drug_name,Drug identifier,string,VEXORIN,VEXORIN / AURONIX / ZYLATEC,Yes
+product_master,company,Manufacturer,string,OurCo Pharmaceuticals,OurCo Pharmaceuticals / CompetitorCo Pharma,Yes
+product_master,indication,Approved therapeutic indication,string,NSCLC 2nd line treatment,—,Yes
+product_master,fda_approval_date,FDA approval date,date,06-12-2021,MM-DD-YYYY,Yes
+product_master,launch_date,Commercial launch date,date,09-01-2021,MM-DD-YYYY,Yes
+product_master,asp_usd,Average Sales Price per unit in USD,float,12500.00,Positive float,Yes
+product_master,ndc_code,National Drug Code,string,10001-201-30,Standard NDC format,Yes
+product_master,launch_phase,Which launch this product belongs to,string,LAST_LAUNCH,LAST_LAUNCH / CURRENT_LAUNCH,Yes
+asset_register,asset_id,Unique asset identifier,string,ASSET_001,—,Yes
+asset_register,asset_type,Asset category,string,Manufacturing Plant,Manufacturing Plant / Lab Equipment / Office / Tech License / Vehicle Fleet,Yes
+asset_register,asset_name,Descriptive asset name,string,NJ Manufacturing Facility,—,Yes
+asset_register,acquisition_date,Date purchased,date,04-01-2018,MM-DD-YYYY,Yes
+asset_register,acquisition_value_usd,Original purchase cost in USD,integer,45000000,Positive integer,Yes
+asset_register,current_book_value_usd,Depreciated book value today in USD,integer,31500000,Positive integer,Yes
+asset_register,status,Current asset state,string,ACTIVE,ACTIVE / DISPOSED / UNDER_MAINTENANCE,Yes
+hr_master,emp_id,Employee identifier,string,EMP_001,—,Yes
+hr_master,role,Job function / title,string,Territory Business Manager,Field or HQ roles,Yes
+hr_master,department,Business unit,string,Commercial,Commercial / Medical Affairs / Manufacturing / Corporate,Yes
+hr_master,join_date,Employment start date,date,03-01-2020,MM-DD-YYYY,Yes
+hr_master,annual_ctc_usd,Annual compensation in USD,integer,95000,Positive integer,Yes
+hr_master,region,Assigned region — NULL for HQ roles,string,NORTHEAST,Same as rep_master — nullable,No
+hr_master,status,Employment status,string,ACTIVE,ACTIVE / ATTRITED / ON_LEAVE,Yes
+production_records,record_id,Unique production record,string,PROD_00001,—,Yes
+production_records,drug_name,Drug manufactured,string,VEXORIN,VEXORIN / AURONIX,Yes
+production_records,week_number,Production week number,integer,14,1–52,Yes
+production_records,year,Production calendar year,integer,2024,—,Yes
+production_records,units_produced,Units manufactured that week,integer,4200,Positive integer,Yes
+production_records,units_sold,Units sold that week,integer,2800,Positive integer,Yes
+production_records,units_in_warehouse,Closing inventory at week end,integer,18600,Positive integer,Yes
+production_records,raw_material_cost_per_unit,Input material cost per unit in USD,float,180.50,Positive float,Yes
+production_records,manufacturing_cost_per_unit,Labour and overhead per unit in USD,float,320.00,Positive float,Yes
+production_records,total_cogs_usd,Total cost of goods sold that week in USD,float,2100000,Positive float,Yes
+promo_spend,spend_id,Unique spend record,string,SPEND_00001,—,Yes
+promo_spend,month,Calendar month,integer,3,1–12,Yes
+promo_spend,year,Calendar year,integer,2024,—,Yes
+promo_spend,channel,Promotional channel,string,CME_Events,CME_Events / Digital / Print / KOL_Engagement / Samples / Congress,Yes
+promo_spend,drug_name,Drug this spend supports,string,AURONIX,VEXORIN / AURONIX,Yes
+promo_spend,spend_usd,Amount spent in USD,float,125000.00,Positive float,Yes
+promo_spend,territory_id,Territory if local spend — NULL for national,string,TER_NE_01,Links to territory_master — nullable,No
+promo_spend,launch_phase,Which launch period,string,CURRENT_LAUNCH,LAST_LAUNCH / CURRENT_LAUNCH,Yes

@@ -1,0 +1,501 @@
+hcp_id,hcp_name,specialty,city,state,hospital_affiliation,hospital_type,decile,brand_affinity,monthly_rx_potential,years_in_practice,kol_flag,kol_score,territory_id
+NPI_000001,Dr. Corey Murray,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,9,SWITCHER,14,35,True,5,TER_NO_02
+NPI_000002,Dr. Robert Bowen,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,3,SWITCHER,5,15,False,0,TER_SO_01
+NPI_000003,Dr. Christine Gray,Medical Oncologist,Salt Lake City,UT,Warren-Chambers Medical Center,Teaching Hospital,4,ZYLATEC_LOYAL,5,10,False,0,TER_MO_03
+NPI_000004,Dr. Regina French,Pulmonologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,7,ZYLATEC_LOYAL,10,21,False,0,TER_MI_02
+NPI_000005,Dr. Elizabeth Lopez,Pulmonologist,Seattle,WA,Austin PLC Medical Center,Teaching Hospital,6,ZYLATEC_LOYAL,11,14,False,0,TER_PA_03
+NPI_000006,Dr. Brendan Mccarty,Pulmonologist,Philadelphia,PA,"Dunlap, Short and Castillo Medical Center",Teaching Hospital,7,VEXORIN_LOYAL,10,30,False,0,TER_NO_03
+NPI_000007,Dr. Bradley Watson,Pulmonologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,16,35,False,0,TER_PA_02
+NPI_000008,Dr. Lisa Harris,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,10,VEXORIN_LOYAL,16,24,True,3,TER_NO_03
+NPI_000009,Dr. Lawrence Crawford,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,6,VEXORIN_LOYAL,8,33,False,0,TER_SO_02
+NPI_000010,Dr. Stephen Flores,Pulmonologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,9,NO_PREFERENCE,15,27,False,0,TER_PA_01
+NPI_000011,Dr. Victoria Moore,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,9,SWITCHER,17,9,False,0,TER_PA_01
+NPI_000012,Dr. Jennifer Welch,Medical Oncologist,Denver,CO,Bass-King Medical Center,Teaching Hospital,10,SWITCHER,17,10,False,0,TER_MO_01
+NPI_000013,Dr. Robin Wells,Hemato-Oncologist,Houston,TX,"Davis, Hansen and Brown Medical Center",Community Hospital,9,SWITCHER,18,31,False,0,TER_SO_01
+NPI_000014,Dr. Billy Wilson,Pulmonologist,Salt Lake City,UT,"Taylor, Thompson and Gibbs Medical Center",Private Practice,8,SWITCHER,16,33,False,0,TER_MO_03
+NPI_000015,Dr. Rachel Garrett,Pulmonologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,10,SWITCHER,16,18,True,3,TER_PA_02
+NPI_000016,Dr. Lauren Taylor,Pulmonologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,6,NO_PREFERENCE,7,12,False,0,TER_NO_02
+NPI_000017,Dr. Francisco Harris,Medical Oncologist,Minneapolis,MN,Jackson-Duke Medical Center,Teaching Hospital,9,VEXORIN_LOYAL,14,32,False,0,TER_MI_03
+NPI_000018,Dr. Anthony Williams,Medical Oncologist,Boston,MA,"Fry, Trevino and Rice Medical Center",Community Hospital,8,SWITCHER,14,27,False,0,TER_NO_01
+NPI_000019,Dr. Taylor Lewis,Hemato-Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,7,NO_PREFERENCE,13,17,False,0,TER_MO_03
+NPI_000020,Dr. Amanda Henson,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,6,ZYLATEC_LOYAL,10,28,False,0,TER_PA_02
+NPI_000021,Dr. James Moss,Pulmonologist,Phoenix,AZ,Reid and Sons Medical Center,Community Hospital,10,NO_PREFERENCE,16,28,False,0,TER_MO_02
+NPI_000022,Dr. Cynthia Baker,Pulmonologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,4,NO_PREFERENCE,5,19,False,0,TER_NO_02
+NPI_000023,Dr. Nicholas Russell,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,6,SWITCHER,9,29,False,0,TER_NO_03
+NPI_000024,Dr. Timothy Cervantes,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,4,SWITCHER,8,25,False,0,TER_NO_01
+NPI_000025,Dr. Jennifer Chen,Medical Oncologist,Boston,MA,"Lee, Reynolds and Rodriguez Medical Center",Community Hospital,4,VEXORIN_LOYAL,4,18,False,0,TER_NO_01
+NPI_000026,Dr. Stacy Owens,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,2,VEXORIN_LOYAL,3,16,False,0,TER_NO_02
+NPI_000027,Dr. Jeffery Goodwin,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,6,SWITCHER,12,10,False,0,TER_MI_02
+NPI_000028,Dr. Emily Rodriguez,Pulmonologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,5,SWITCHER,10,27,False,0,TER_NO_02
+NPI_000029,Dr. Kathryn Johnson,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,9,SWITCHER,15,9,False,0,TER_MI_02
+NPI_000030,Dr. Jesus Gray,Medical Oncologist,Los Angeles,CA,Stephenson Inc Medical Center,Private Practice,9,SWITCHER,15,5,False,0,TER_PA_01
+NPI_000031,Dr. Tracy Roberson,Medical Oncologist,Minneapolis,MN,Peterson-Woodard Medical Center,Teaching Hospital,7,ZYLATEC_LOYAL,13,34,False,0,TER_MI_03
+NPI_000032,Dr. Harry Reyes,Medical Oncologist,Phoenix,AZ,Potter-Olson Medical Center,Teaching Hospital,10,NO_PREFERENCE,18,30,True,5,TER_MO_02
+NPI_000033,Dr. Ryan Yu,Hemato-Oncologist,San Francisco,CA,Garcia Group Medical Center,Private Practice,6,SWITCHER,9,30,False,0,TER_PA_02
+NPI_000034,Dr. Benjamin Scott,Hemato-Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,18,20,False,0,TER_SO_03
+NPI_000035,Dr. Raymond Nichols,Medical Oncologist,Dallas,TX,Franco-Cunningham Medical Center,Teaching Hospital,8,ZYLATEC_LOYAL,9,23,True,3,TER_SO_02
+NPI_000036,Dr. Donna Kirby,Medical Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,6,SWITCHER,11,3,False,0,TER_MO_03
+NPI_000037,Dr. Mary Chen,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,6,ZYLATEC_LOYAL,10,18,False,0,TER_NO_01
+NPI_000038,Dr. Albert Nelson,Pulmonologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,9,SWITCHER,11,17,False,0,TER_MO_03
+NPI_000039,Dr. Katie Moreno,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,9,SWITCHER,13,24,False,0,TER_MI_01
+NPI_000040,Dr. Joseph Weber,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,7,SWITCHER,10,14,False,0,TER_SO_03
+NPI_000041,Dr. Jonathan Zhang,Medical Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,9,SWITCHER,16,21,False,0,TER_PA_03
+NPI_000042,Dr. Edgar Mason,Hemato-Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,7,ZYLATEC_LOYAL,12,11,False,0,TER_MI_03
+NPI_000043,Dr. Marco Marks,Medical Oncologist,Los Angeles,CA,Adkins Inc Medical Center,Teaching Hospital,10,SWITCHER,13,34,True,3,TER_PA_01
+NPI_000044,Dr. Jennifer Duran,Pulmonologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,8,VEXORIN_LOYAL,9,33,True,3,TER_MI_03
+NPI_000045,Dr. Derrick Mcpherson,Medical Oncologist,Minneapolis,MN,Patterson-Gordon Medical Center,Teaching Hospital,4,VEXORIN_LOYAL,5,22,False,0,TER_MI_03
+NPI_000046,Dr. Tiffany Smith,Medical Oncologist,Phoenix,AZ,Gray LLC Medical Center,Teaching Hospital,6,ZYLATEC_LOYAL,10,17,False,0,TER_MO_02
+NPI_000047,Dr. Dale Hood,Pulmonologist,Cleveland,OH,Taylor Group Medical Center,Community Hospital,7,ZYLATEC_LOYAL,12,30,False,0,TER_MI_02
+NPI_000048,Dr. Gwendolyn White,Medical Oncologist,Chicago,IL,Rosario PLC Medical Center,Teaching Hospital,9,SWITCHER,18,16,False,0,TER_MI_01
+NPI_000049,Dr. Gloria French,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,4,SWITCHER,5,29,False,0,TER_PA_01
+NPI_000050,Dr. Darren Neal,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,9,ZYLATEC_LOYAL,16,32,True,3,TER_MI_02
+NPI_000051,Dr. Peter Little,Hemato-Oncologist,Phoenix,AZ,Porter Inc Medical Center,Teaching Hospital,10,SWITCHER,20,30,True,3,TER_MO_02
+NPI_000052,Dr. Ashley Torres,Pulmonologist,Minneapolis,MN,Lewis PLC Medical Center,Private Practice,10,VEXORIN_LOYAL,13,22,False,0,TER_MI_03
+NPI_000053,Dr. Thomas Crosby,Hemato-Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,10,SWITCHER,14,28,False,0,TER_MI_02
+NPI_000054,Dr. Gail Quinn,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,8,VEXORIN_LOYAL,12,23,False,0,TER_PA_01
+NPI_000055,Dr. Matthew Cantu,Medical Oncologist,Boston,MA,"Gill, Boyd and Rios Medical Center",Teaching Hospital,6,NO_PREFERENCE,10,4,False,0,TER_NO_01
+NPI_000056,Dr. Amy Schwartz,Hemato-Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,9,VEXORIN_LOYAL,16,33,False,0,TER_MI_01
+NPI_000057,Dr. Barbara Davis,Medical Oncologist,Seattle,WA,Thompson-Estrada Medical Center,Community Hospital,6,ZYLATEC_LOYAL,11,8,False,0,TER_PA_03
+NPI_000058,Dr. Paul Barker,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,7,VEXORIN_LOYAL,9,29,False,0,TER_MI_03
+NPI_000059,Dr. Courtney Carney,Pulmonologist,New York,NY,"Wright, Ward and Martin Medical Center",Community Hospital,7,NO_PREFERENCE,11,32,False,0,TER_NO_02
+NPI_000060,Dr. Ricardo Lowery,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,6,SWITCHER,11,3,False,0,TER_SO_03
+NPI_000061,Dr. Nicholas Butler,Pulmonologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,8,VEXORIN_LOYAL,12,34,False,0,TER_PA_03
+NPI_000062,Dr. Jacob Hall,Pulmonologist,Phoenix,AZ,Baker-Barnes Medical Center,Teaching Hospital,6,NO_PREFERENCE,9,34,False,0,TER_MO_02
+NPI_000063,Dr. April Nguyen,Medical Oncologist,Philadelphia,PA,Jensen-Tate Medical Center,Teaching Hospital,10,ZYLATEC_LOYAL,13,3,False,0,TER_NO_03
+NPI_000064,Dr. Ernest Klein,Medical Oncologist,Minneapolis,MN,Ward-Perez Medical Center,Community Hospital,10,SWITCHER,13,12,False,0,TER_MI_03
+NPI_000065,Dr. Edwin Weeks,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,8,NO_PREFERENCE,16,18,False,0,TER_SO_02
+NPI_000066,Dr. Sara Archer,Medical Oncologist,Houston,TX,Mcdonald-Davis Medical Center,Teaching Hospital,6,SWITCHER,7,7,False,0,TER_SO_01
+NPI_000067,Dr. Laura Cox,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,10,NO_PREFERENCE,16,3,True,4,TER_NO_03
+NPI_000068,Dr. Michael Leon,Hemato-Oncologist,Salt Lake City,UT,Clark and Sons Medical Center,Teaching Hospital,8,NO_PREFERENCE,12,33,False,0,TER_MO_03
+NPI_000069,Dr. Brendan Brock,Pulmonologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,8,ZYLATEC_LOYAL,10,18,False,0,TER_MI_02
+NPI_000070,Dr. William Schmidt,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,SWITCHER,16,27,False,0,TER_SO_02
+NPI_000071,Dr. Ariel Kramer,Pulmonologist,San Francisco,CA,"Bradford, Cook and Mcguire Medical Center",Community Hospital,10,SWITCHER,12,35,False,0,TER_PA_02
+NPI_000072,Dr. Bethany Fernandez,Medical Oncologist,Seattle,WA,Chapman-Parker Medical Center,Private Practice,4,VEXORIN_LOYAL,8,3,False,0,TER_PA_03
+NPI_000073,Dr. Tyrone Green,Pulmonologist,Cleveland,OH,Camacho Group Medical Center,Teaching Hospital,7,VEXORIN_LOYAL,11,19,False,0,TER_MI_02
+NPI_000074,Dr. Angela Roberts,Medical Oncologist,Minneapolis,MN,Brown-Zamora Medical Center,Teaching Hospital,9,NO_PREFERENCE,17,27,False,0,TER_MI_03
+NPI_000075,Dr. Amy Wheeler,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,10,SWITCHER,17,18,False,0,TER_SO_02
+NPI_000076,Dr. Jorge Jordan,Hemato-Oncologist,Seattle,WA,Bell-Chase Medical Center,Teaching Hospital,10,ZYLATEC_LOYAL,12,9,False,0,TER_PA_03
+NPI_000077,Dr. Sharon Nelson,Pulmonologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,10,SWITCHER,14,26,False,0,TER_MI_01
+NPI_000078,Dr. Kim Khan,Medical Oncologist,Cleveland,OH,"Lee, Gilbert and Kaiser Medical Center",Teaching Hospital,7,VEXORIN_LOYAL,9,27,False,0,TER_MI_02
+NPI_000079,Dr. John Booth,Pulmonologist,Phoenix,AZ,Smith LLC Medical Center,Community Hospital,6,VEXORIN_LOYAL,9,19,False,0,TER_MO_02
+NPI_000080,Dr. Willie Stevens,Medical Oncologist,Chicago,IL,Giles-Perry Medical Center,Private Practice,9,SWITCHER,13,13,True,4,TER_MI_01
+NPI_000081,Dr. Michael Martinez,Hemato-Oncologist,Cleveland,OH,"Haynes, Turner and Wilson Medical Center",Community Hospital,7,SWITCHER,11,22,False,0,TER_MI_02
+NPI_000082,Dr. Michael Chen,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,7,ZYLATEC_LOYAL,12,21,False,0,TER_PA_02
+NPI_000083,Dr. Leslie Mckee,Hemato-Oncologist,San Francisco,CA,Hoover Ltd Medical Center,Community Hospital,7,SWITCHER,10,6,False,0,TER_PA_02
+NPI_000084,Dr. Jill Mullins,Hemato-Oncologist,Houston,TX,Rodriguez-Wilson Medical Center,Private Practice,9,NO_PREFERENCE,17,17,False,0,TER_SO_01
+NPI_000085,Dr. Wendy Thompson,Medical Oncologist,Nashville,TN,Cruz-Kennedy Medical Center,Teaching Hospital,9,SWITCHER,16,11,False,0,TER_SO_03
+NPI_000086,Dr. Wayne Conrad,Hemato-Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,15,11,True,4,TER_PA_01
+NPI_000087,Dr. Michael Manning,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,7,SWITCHER,13,26,False,0,TER_NO_03
+NPI_000088,Dr. Paul Smith,Medical Oncologist,Denver,CO,Jones-Coleman Medical Center,Private Practice,10,ZYLATEC_LOYAL,19,33,False,0,TER_MO_01
+NPI_000089,Dr. Tiffany Lynch,Medical Oncologist,Seattle,WA,"Davis, Murphy and Peck Medical Center",Private Practice,10,SWITCHER,12,17,False,0,TER_PA_03
+NPI_000090,Dr. James Fields,Pulmonologist,Salt Lake City,UT,"Maynard, Brown and Robbins Medical Center",Community Hospital,10,NO_PREFERENCE,15,28,True,5,TER_MO_03
+NPI_000091,Dr. Deborah Morrison,Medical Oncologist,Chicago,IL,"Miller, Wang and Landry Medical Center",Teaching Hospital,7,ZYLATEC_LOYAL,10,26,False,0,TER_MI_01
+NPI_000092,Dr. Michael Diaz,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,6,NO_PREFERENCE,10,17,False,0,TER_MI_03
+NPI_000093,Dr. Erica Cochran,Pulmonologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,9,SWITCHER,16,10,True,3,TER_MI_01
+NPI_000094,Dr. Gregory Johnston,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,8,NO_PREFERENCE,10,32,False,0,TER_NO_03
+NPI_000095,Dr. Mark Edwards,Hemato-Oncologist,Chicago,IL,York-Clements Medical Center,Teaching Hospital,9,SWITCHER,16,29,False,0,TER_MI_01
+NPI_000096,Dr. Linda Hart,Hemato-Oncologist,Denver,CO,"King, Mercer and Green Medical Center",Community Hospital,9,ZYLATEC_LOYAL,16,16,False,0,TER_MO_01
+NPI_000097,Dr. Jennifer Nguyen,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,10,SWITCHER,16,25,True,4,TER_NO_03
+NPI_000098,Dr. Robert Pennington,Medical Oncologist,Phoenix,AZ,"Taylor, Davenport and Taylor Medical Center",Private Practice,5,SWITCHER,8,4,False,0,TER_MO_02
+NPI_000099,Dr. Jon Meyer,Medical Oncologist,Seattle,WA,Cook-Miller Medical Center,Community Hospital,7,SWITCHER,9,16,False,0,TER_PA_03
+NPI_000100,Dr. Joshua Ingram,Pulmonologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,10,SWITCHER,19,3,True,3,TER_MO_03
+NPI_000101,Dr. Cory Douglas,Hemato-Oncologist,Salt Lake City,UT,Spencer-Horn Medical Center,Private Practice,8,VEXORIN_LOYAL,15,11,True,3,TER_MO_03
+NPI_000102,Dr. Julie Mitchell,Pulmonologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,1,VEXORIN_LOYAL,1,10,False,0,TER_NO_03
+NPI_000103,Dr. Michael Aguirre,Pulmonologist,Salt Lake City,UT,Monroe-Mills Medical Center,Private Practice,8,SWITCHER,10,35,True,5,TER_MO_03
+NPI_000104,Dr. Anna Martinez,Medical Oncologist,Seattle,WA,Barry Inc Medical Center,Private Practice,9,SWITCHER,14,4,True,4,TER_PA_03
+NPI_000105,Dr. Kenneth Johnson,Hemato-Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,8,SWITCHER,12,8,False,0,TER_MI_01
+NPI_000106,Dr. Gregory Fowler,Medical Oncologist,Houston,TX,Davis LLC Medical Center,Teaching Hospital,5,SWITCHER,9,27,False,0,TER_SO_01
+NPI_000107,Dr. Kathleen Martinez,Hemato-Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,8,SWITCHER,10,10,False,0,TER_SO_03
+NPI_000108,Dr. Charles Johnson,Pulmonologist,Denver,CO,Shaffer LLC Medical Center,Teaching Hospital,9,ZYLATEC_LOYAL,14,17,False,0,TER_MO_01
+NPI_000109,Dr. Brandon Solomon,Hemato-Oncologist,Salt Lake City,UT,Wiley-Blackwell Medical Center,Teaching Hospital,7,ZYLATEC_LOYAL,10,19,False,0,TER_MO_03
+NPI_000110,Dr. Kim Levy,Medical Oncologist,Houston,TX,Jones-Torres Medical Center,Community Hospital,5,VEXORIN_LOYAL,9,8,False,0,TER_SO_01
+NPI_000111,Dr. Danny Caldwell,Medical Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,9,VEXORIN_LOYAL,11,24,False,0,TER_MO_03
+NPI_000112,Dr. Eric Wright,Medical Oncologist,Dallas,TX,Dalton LLC Medical Center,Community Hospital,10,ZYLATEC_LOYAL,20,6,False,0,TER_SO_02
+NPI_000113,Dr. Michelle Murphy,Pulmonologist,Denver,CO,"Morales, Kim and Perez Medical Center",Teaching Hospital,7,ZYLATEC_LOYAL,12,17,False,0,TER_MO_01
+NPI_000114,Dr. Jose Preston,Hemato-Oncologist,Houston,TX,Rubio-Horne Medical Center,Teaching Hospital,7,VEXORIN_LOYAL,10,17,False,0,TER_SO_01
+NPI_000115,Dr. Jennifer Phillips,Hemato-Oncologist,Philadelphia,PA,"Jimenez, Perez and Walker Medical Center",Community Hospital,10,NO_PREFERENCE,17,4,False,0,TER_NO_03
+NPI_000116,Dr. Rebecca Jackson,Pulmonologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,16,24,False,0,TER_MI_01
+NPI_000117,Dr. Megan Luna,Medical Oncologist,Phoenix,AZ,"Thompson, Nelson and Wade Medical Center",Teaching Hospital,5,VEXORIN_LOYAL,9,4,False,0,TER_MO_02
+NPI_000118,Dr. Juan Beck,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,8,SWITCHER,10,22,False,0,TER_MI_01
+NPI_000119,Dr. Amy Medina,Pulmonologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,8,VEXORIN_LOYAL,10,6,False,0,TER_NO_01
+NPI_000120,Dr. Robert King,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,13,35,True,4,TER_PA_02
+NPI_000121,Dr. Tyler Joseph,Medical Oncologist,Seattle,WA,Martin-Peterson Medical Center,Teaching Hospital,9,SWITCHER,13,17,False,0,TER_PA_03
+NPI_000122,Dr. William Brewer,Pulmonologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,1,ZYLATEC_LOYAL,1,19,False,0,TER_SO_01
+NPI_000123,Dr. John Lawson,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,5,ZYLATEC_LOYAL,6,17,False,0,TER_MI_03
+NPI_000124,Dr. Lisa Black,Medical Oncologist,Los Angeles,CA,"Wilson, Reid and Koch Medical Center",Private Practice,10,VEXORIN_LOYAL,19,5,False,0,TER_PA_01
+NPI_000125,Dr. Jennifer Erickson,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,4,ZYLATEC_LOYAL,6,29,False,0,TER_MO_01
+NPI_000126,Dr. Kelly Sherman,Medical Oncologist,New York,NY,Nelson and Sons Medical Center,Community Hospital,7,VEXORIN_LOYAL,14,32,False,0,TER_NO_02
+NPI_000127,Dr. Courtney Gill,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,10,NO_PREFERENCE,14,28,False,0,TER_NO_03
+NPI_000128,Dr. Joyce Stevens,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,7,ZYLATEC_LOYAL,9,35,False,0,TER_MI_02
+NPI_000129,Dr. Nicole Sullivan,Pulmonologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,8,SWITCHER,12,12,True,3,TER_PA_01
+NPI_000130,Dr. Brian Mueller,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,5,SWITCHER,6,34,False,0,TER_SO_02
+NPI_000131,Dr. Christine Wade,Medical Oncologist,Philadelphia,PA,Ross-Wallace Medical Center,Teaching Hospital,8,SWITCHER,15,23,False,0,TER_NO_03
+NPI_000132,Dr. Michael Fisher,Pulmonologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,5,ZYLATEC_LOYAL,7,20,False,0,TER_SO_03
+NPI_000133,Dr. Amanda Rivas,Pulmonologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,7,SWITCHER,8,26,False,0,TER_PA_03
+NPI_000134,Dr. Scott Oliver,Hemato-Oncologist,Los Angeles,CA,Lee-West Medical Center,Private Practice,4,NO_PREFERENCE,7,35,False,0,TER_PA_01
+NPI_000135,Dr. Brian Fox,Medical Oncologist,Los Angeles,CA,Hardy PLC Medical Center,Community Hospital,8,SWITCHER,9,15,False,0,TER_PA_01
+NPI_000136,Dr. Megan Noble,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,5,VEXORIN_LOYAL,10,24,False,0,TER_MO_01
+NPI_000137,Dr. Benjamin Smith,Hemato-Oncologist,Nashville,TN,"Guerrero, Hernandez and Martin Medical Center",Teaching Hospital,4,VEXORIN_LOYAL,7,31,False,0,TER_SO_03
+NPI_000138,Dr. Michael Copeland,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,9,NO_PREFERENCE,13,24,False,0,TER_MI_01
+NPI_000139,Dr. Candice Hall,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,9,ZYLATEC_LOYAL,15,27,True,5,TER_MI_02
+NPI_000140,Dr. Jennifer Gardner,Hemato-Oncologist,Minneapolis,MN,"Jones, Donaldson and Wood Medical Center",Teaching Hospital,10,VEXORIN_LOYAL,12,12,False,0,TER_MI_03
+NPI_000141,Dr. Paul Smith,Medical Oncologist,Philadelphia,PA,Rodriguez PLC Medical Center,Teaching Hospital,9,VEXORIN_LOYAL,16,8,False,0,TER_NO_03
+NPI_000142,Dr. Kevin Gordon,Medical Oncologist,Houston,TX,Watson Inc Medical Center,Private Practice,10,SWITCHER,19,8,False,0,TER_SO_01
+NPI_000143,Dr. Sharon Johnson,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,7,VEXORIN_LOYAL,9,34,False,0,TER_SO_03
+NPI_000144,Dr. Lawrence Williamson,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,10,ZYLATEC_LOYAL,19,35,False,0,TER_MI_02
+NPI_000145,Dr. Kevin Cox,Hemato-Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,10,ZYLATEC_LOYAL,18,11,False,0,TER_NO_02
+NPI_000146,Dr. Timothy Thompson,Medical Oncologist,Salt Lake City,UT,"Holt, Wright and Mathis Medical Center",Teaching Hospital,5,SWITCHER,10,31,False,0,TER_MO_03
+NPI_000147,Dr. Desiree Johnson,Medical Oncologist,Phoenix,AZ,Williams LLC Medical Center,Teaching Hospital,7,NO_PREFERENCE,12,31,False,0,TER_MO_02
+NPI_000148,Dr. Cynthia Gray,Medical Oncologist,Houston,TX,Smith Inc Medical Center,Community Hospital,6,SWITCHER,12,15,False,0,TER_SO_01
+NPI_000149,Dr. Kevin Thompson,Medical Oncologist,New York,NY,"Deleon, Adkins and Richardson Medical Center",Community Hospital,10,SWITCHER,14,27,False,0,TER_NO_02
+NPI_000150,Dr. Tyler Griffith,Medical Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,5,SWITCHER,9,6,False,0,TER_MO_03
+NPI_000151,Dr. Catherine Moore,Pulmonologist,Denver,CO,Vaughn Group Medical Center,Teaching Hospital,10,VEXORIN_LOYAL,19,10,True,3,TER_MO_01
+NPI_000152,Dr. Kristi Johnson,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,10,ZYLATEC_LOYAL,20,17,False,0,TER_MI_01
+NPI_000153,Dr. Evan Reeves,Hemato-Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,10,ZYLATEC_LOYAL,15,27,False,0,TER_NO_01
+NPI_000154,Dr. Anthony Cohen,Medical Oncologist,San Francisco,CA,"Miller, Gallegos and Rodriguez Medical Center",Community Hospital,2,NO_PREFERENCE,3,12,False,0,TER_PA_02
+NPI_000155,Dr. Ryan James,Medical Oncologist,Denver,CO,"Ferrell, Price and Alvarez Medical Center",Private Practice,7,SWITCHER,9,33,False,0,TER_MO_01
+NPI_000156,Dr. Luke Banks,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,1,ZYLATEC_LOYAL,1,30,False,0,TER_PA_01
+NPI_000157,Dr. Christine Neal,Medical Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,7,VEXORIN_LOYAL,11,32,False,0,TER_MO_03
+NPI_000158,Dr. Michael Gay,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,10,SWITCHER,17,18,False,0,TER_SO_03
+NPI_000159,Dr. Kyle Anderson,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,1,SWITCHER,1,8,False,0,TER_SO_02
+NPI_000160,Dr. Joshua Davis,Medical Oncologist,Philadelphia,PA,Gutierrez-Crawford Medical Center,Community Hospital,7,SWITCHER,13,35,False,0,TER_NO_03
+NPI_000161,Dr. Tara Walker,Pulmonologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,7,SWITCHER,14,19,False,0,TER_MO_02
+NPI_000162,Dr. Ashley Raymond,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,7,ZYLATEC_LOYAL,12,9,False,0,TER_SO_02
+NPI_000163,Dr. Jennifer Vasquez,Pulmonologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,9,VEXORIN_LOYAL,15,14,False,0,TER_MO_02
+NPI_000164,Dr. Alicia Wilson,Pulmonologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,10,VEXORIN_LOYAL,13,32,True,3,TER_SO_01
+NPI_000165,Dr. Sara Montgomery,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,6,NO_PREFERENCE,9,33,False,0,TER_PA_02
+NPI_000166,Dr. Beth Williams,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,9,ZYLATEC_LOYAL,17,24,True,4,TER_NO_01
+NPI_000167,Dr. Randy Lindsey,Medical Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,7,NO_PREFERENCE,10,14,False,0,TER_PA_03
+NPI_000168,Dr. Dawn Sanchez,Medical Oncologist,Denver,CO,Rich LLC Medical Center,Community Hospital,8,SWITCHER,15,30,True,5,TER_MO_01
+NPI_000169,Dr. Todd Gray,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,5,VEXORIN_LOYAL,7,21,False,0,TER_NO_03
+NPI_000170,Dr. Elizabeth Robinson,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,9,SWITCHER,13,5,False,0,TER_MI_03
+NPI_000171,Dr. Frank Shaw,Hemato-Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,9,SWITCHER,17,6,True,5,TER_SO_03
+NPI_000172,Dr. Kurt Williams,Medical Oncologist,Phoenix,AZ,Tran-House Medical Center,Teaching Hospital,8,VEXORIN_LOYAL,9,31,True,3,TER_MO_02
+NPI_000173,Dr. Patrick Hernandez,Medical Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,9,NO_PREFERENCE,11,12,False,0,TER_PA_03
+NPI_000174,Dr. Katherine Walters,Hemato-Oncologist,Houston,TX,Parker-Ware Medical Center,Private Practice,7,SWITCHER,11,28,False,0,TER_SO_01
+NPI_000175,Dr. Stephen Miller,Medical Oncologist,Minneapolis,MN,"Peters, Holmes and Elliott Medical Center",Community Hospital,6,VEXORIN_LOYAL,8,27,False,0,TER_MI_03
+NPI_000176,Dr. Jodi Sullivan,Hemato-Oncologist,Seattle,WA,Chan and Sons Medical Center,Private Practice,5,SWITCHER,6,21,False,0,TER_PA_03
+NPI_000177,Dr. Samuel Martin,Pulmonologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,10,VEXORIN_LOYAL,12,14,False,0,TER_MI_02
+NPI_000178,Dr. Victoria Savage,Medical Oncologist,Seattle,WA,Robertson PLC Medical Center,Teaching Hospital,4,NO_PREFERENCE,5,25,False,0,TER_PA_03
+NPI_000179,Dr. Jesse Knight,Pulmonologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,10,14,False,0,TER_MI_01
+NPI_000180,Dr. Jonathan Taylor,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,5,VEXORIN_LOYAL,9,4,False,0,TER_SO_02
+NPI_000181,Dr. Joel Jones,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,8,NO_PREFERENCE,10,8,True,4,TER_SO_01
+NPI_000182,Dr. Dustin Blake,Hemato-Oncologist,Minneapolis,MN,Campos PLC Medical Center,Teaching Hospital,9,SWITCHER,17,7,True,4,TER_MI_03
+NPI_000183,Dr. Edward Henry,Pulmonologist,San Francisco,CA,Jones LLC Medical Center,Teaching Hospital,8,ZYLATEC_LOYAL,15,14,False,0,TER_PA_02
+NPI_000184,Dr. Patricia Cannon,Medical Oncologist,Minneapolis,MN,"Miller, Franklin and David Medical Center",Private Practice,8,NO_PREFERENCE,13,22,True,4,TER_MI_03
+NPI_000185,Dr. Danny Juarez,Hemato-Oncologist,Seattle,WA,Williams Inc Medical Center,Community Hospital,6,SWITCHER,8,8,False,0,TER_PA_03
+NPI_000186,Dr. Glen Moore,Medical Oncologist,Phoenix,AZ,Perkins-Phillips Medical Center,Teaching Hospital,9,VEXORIN_LOYAL,13,8,False,0,TER_MO_02
+NPI_000187,Dr. Chad Watson,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,10,SWITCHER,18,24,False,0,TER_NO_01
+NPI_000188,Dr. Brianna Wheeler,Pulmonologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,10,VEXORIN_LOYAL,17,19,False,0,TER_SO_03
+NPI_000189,Dr. Tiffany Lindsey,Pulmonologist,Denver,CO,Coleman Inc Medical Center,Teaching Hospital,7,SWITCHER,12,21,False,0,TER_MO_01
+NPI_000190,Dr. Amanda Kemp,Pulmonologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,7,NO_PREFERENCE,10,32,False,0,TER_PA_01
+NPI_000191,Dr. Amanda Woodard,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,3,SWITCHER,4,12,False,0,TER_SO_03
+NPI_000192,Dr. Joseph Williams,Medical Oncologist,Los Angeles,CA,"Rodgers, Campbell and Luna Medical Center",Teaching Hospital,9,NO_PREFERENCE,18,11,False,0,TER_PA_01
+NPI_000193,Dr. Mark Anderson,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,4,VEXORIN_LOYAL,6,12,False,0,TER_MO_02
+NPI_000194,Dr. Angela Gardner,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,7,SWITCHER,9,13,False,0,TER_MI_02
+NPI_000195,Dr. Trevor Hahn,Hemato-Oncologist,San Francisco,CA,"Thomas, Todd and Barnes Medical Center",Teaching Hospital,10,VEXORIN_LOYAL,13,35,False,0,TER_PA_02
+NPI_000196,Dr. Daniel Osborne,Hemato-Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,12,18,True,4,TER_NO_02
+NPI_000197,Dr. Debra Frost,Medical Oncologist,Boston,MA,Smith-Sanchez Medical Center,Teaching Hospital,6,NO_PREFERENCE,10,21,False,0,TER_NO_01
+NPI_000198,Dr. Stephen Li,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,10,NO_PREFERENCE,18,28,False,0,TER_MO_02
+NPI_000199,Dr. Timothy Williams,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,8,SWITCHER,10,35,False,0,TER_NO_02
+NPI_000200,Dr. Sabrina Jones,Medical Oncologist,Denver,CO,Hill-Johnson Medical Center,Teaching Hospital,10,SWITCHER,13,9,False,0,TER_MO_01
+NPI_000201,Dr. Kristen Mcfarland,Pulmonologist,Boston,MA,Villarreal Inc Medical Center,Community Hospital,7,SWITCHER,9,35,False,0,TER_NO_01
+NPI_000202,Dr. Patrick Osborne,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,3,SWITCHER,5,32,False,0,TER_SO_01
+NPI_000203,Dr. Stephanie Hancock,Medical Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,10,NO_PREFERENCE,14,28,False,0,TER_PA_03
+NPI_000204,Dr. Kayla Clark,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,7,NO_PREFERENCE,11,22,False,0,TER_SO_02
+NPI_000205,Dr. Michaela Johnson,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,1,VEXORIN_LOYAL,1,22,False,0,TER_SO_01
+NPI_000206,Dr. Christopher Spencer,Pulmonologist,Salt Lake City,UT,Paul-Rodriguez Medical Center,Teaching Hospital,9,VEXORIN_LOYAL,14,17,False,0,TER_MO_03
+NPI_000207,Dr. Jose Lopez,Pulmonologist,Philadelphia,PA,Hernandez-Scott Medical Center,Teaching Hospital,5,SWITCHER,9,12,False,0,TER_NO_03
+NPI_000208,Dr. Amber Woods,Hemato-Oncologist,Cleveland,OH,Alexander-Colon Medical Center,Teaching Hospital,6,SWITCHER,8,31,False,0,TER_MI_02
+NPI_000209,Dr. Samantha Leon,Medical Oncologist,Seattle,WA,Heath-Bender Medical Center,Teaching Hospital,5,ZYLATEC_LOYAL,9,33,False,0,TER_PA_03
+NPI_000210,Dr. Raymond Ward,Hemato-Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,9,VEXORIN_LOYAL,12,23,False,0,TER_PA_01
+NPI_000211,Dr. Michael Anthony,Medical Oncologist,Boston,MA,Bryant PLC Medical Center,Community Hospital,7,SWITCHER,11,25,False,0,TER_NO_01
+NPI_000212,Dr. Gavin Conway,Pulmonologist,Los Angeles,CA,"Johnson, Wilson and Wood Medical Center",Teaching Hospital,10,NO_PREFERENCE,14,33,True,3,TER_PA_01
+NPI_000213,Dr. Mary Morgan,Medical Oncologist,Los Angeles,CA,Kline-Garrett Medical Center,Community Hospital,7,NO_PREFERENCE,13,16,False,0,TER_PA_01
+NPI_000214,Dr. Brittany Hernandez,Pulmonologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,8,SWITCHER,16,20,True,5,TER_NO_02
+NPI_000215,Dr. Joseph Baker,Pulmonologist,Phoenix,AZ,Davidson Group Medical Center,Community Hospital,7,NO_PREFERENCE,14,12,False,0,TER_MO_02
+NPI_000216,Dr. Daniel Anderson,Medical Oncologist,Dallas,TX,Steele-Brown Medical Center,Teaching Hospital,7,ZYLATEC_LOYAL,11,19,False,0,TER_SO_02
+NPI_000217,Dr. Kevin Petersen,Pulmonologist,Los Angeles,CA,"Jimenez, Taylor and Jones Medical Center",Private Practice,6,ZYLATEC_LOYAL,10,20,False,0,TER_PA_01
+NPI_000218,Dr. Megan Coleman,Medical Oncologist,Boston,MA,Hall PLC Medical Center,Teaching Hospital,9,ZYLATEC_LOYAL,16,17,False,0,TER_NO_01
+NPI_000219,Dr. Troy Singh,Medical Oncologist,Phoenix,AZ,Hart-Adams Medical Center,Teaching Hospital,7,VEXORIN_LOYAL,13,3,False,0,TER_MO_02
+NPI_000220,Dr. Robert Garcia,Hemato-Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,10,SWITCHER,19,33,False,0,TER_MO_03
+NPI_000221,Dr. Mark Hill,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,10,SWITCHER,20,8,False,0,TER_MI_03
+NPI_000222,Dr. Janice Anderson,Medical Oncologist,Dallas,TX,Simpson-Bowman Medical Center,Private Practice,9,VEXORIN_LOYAL,18,29,False,0,TER_SO_02
+NPI_000223,Dr. Adrian Smith,Medical Oncologist,New York,NY,Miller Inc Medical Center,Community Hospital,10,ZYLATEC_LOYAL,16,21,False,0,TER_NO_02
+NPI_000224,Dr. Dennis Stone,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,8,NO_PREFERENCE,11,34,False,0,TER_PA_02
+NPI_000225,Dr. Timothy Diaz,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,8,NO_PREFERENCE,11,32,False,0,TER_NO_01
+NPI_000226,Dr. Sandra Martin,Pulmonologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,1,ZYLATEC_LOYAL,1,15,False,0,TER_NO_01
+NPI_000227,Dr. Sherry Smith,Medical Oncologist,Denver,CO,Barrett PLC Medical Center,Private Practice,10,NO_PREFERENCE,16,8,False,0,TER_MO_01
+NPI_000228,Dr. Andrew Perez,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,10,NO_PREFERENCE,12,27,True,4,TER_NO_01
+NPI_000229,Dr. Lisa Shaw,Hemato-Oncologist,Minneapolis,MN,"Graham, Miller and Anderson Medical Center",Teaching Hospital,7,VEXORIN_LOYAL,12,18,False,0,TER_MI_03
+NPI_000230,Dr. Breanna Cross,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,5,ZYLATEC_LOYAL,8,22,False,0,TER_PA_01
+NPI_000231,Dr. Luke Berg,Pulmonologist,Houston,TX,Thompson-Foster Medical Center,Community Hospital,9,ZYLATEC_LOYAL,12,11,False,0,TER_SO_01
+NPI_000232,Dr. Lisa Smith,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,10,SWITCHER,20,16,False,0,TER_NO_03
+NPI_000233,Dr. Andrew Chang,Pulmonologist,Cleveland,OH,Pope-Gibson Medical Center,Private Practice,9,SWITCHER,15,26,True,5,TER_MI_02
+NPI_000234,Dr. Douglas Olsen,Medical Oncologist,Los Angeles,CA,Nunez Inc Medical Center,Community Hospital,10,ZYLATEC_LOYAL,16,13,False,0,TER_PA_01
+NPI_000235,Dr. Timothy Harvey,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,4,SWITCHER,5,35,False,0,TER_MO_02
+NPI_000236,Dr. Dale Blair,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,3,ZYLATEC_LOYAL,5,32,False,0,TER_NO_02
+NPI_000237,Dr. Megan Williams,Pulmonologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,7,ZYLATEC_LOYAL,8,16,False,0,TER_MO_03
+NPI_000238,Dr. David Thomas,Pulmonologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,3,VEXORIN_LOYAL,6,7,False,0,TER_SO_03
+NPI_000239,Dr. Megan Foster,Hemato-Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,8,VEXORIN_LOYAL,10,29,False,0,TER_PA_02
+NPI_000240,Dr. Jeremy Brown,Hemato-Oncologist,Salt Lake City,UT,Leach Inc Medical Center,Community Hospital,8,ZYLATEC_LOYAL,10,11,False,0,TER_MO_03
+NPI_000241,Dr. Tracie Turner,Medical Oncologist,Phoenix,AZ,Patel Ltd Medical Center,Teaching Hospital,5,SWITCHER,9,17,False,0,TER_MO_02
+NPI_000242,Dr. Andrea Espinoza,Hemato-Oncologist,San Francisco,CA,Rodriguez Ltd Medical Center,Community Hospital,9,SWITCHER,16,30,False,0,TER_PA_02
+NPI_000243,Dr. Melissa Roberts,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,6,ZYLATEC_LOYAL,12,10,False,0,TER_NO_03
+NPI_000244,Dr. Tiffany Rodriguez,Medical Oncologist,Phoenix,AZ,"Wood, Snow and Smith Medical Center",Teaching Hospital,9,NO_PREFERENCE,18,18,True,3,TER_MO_02
+NPI_000245,Dr. Kristin Kennedy,Pulmonologist,Nashville,TN,"Ritter, Howell and Romero Medical Center",Teaching Hospital,8,NO_PREFERENCE,11,5,False,0,TER_SO_03
+NPI_000246,Dr. Heather Hernandez,Medical Oncologist,Boston,MA,"Davis, Pearson and Henry Medical Center",Private Practice,6,VEXORIN_LOYAL,9,21,False,0,TER_NO_01
+NPI_000247,Dr. Andrew Martin,Medical Oncologist,Salt Lake City,UT,Thompson-Smith Medical Center,Teaching Hospital,10,SWITCHER,18,23,True,3,TER_MO_03
+NPI_000248,Dr. Brian Mason,Hemato-Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,13,14,False,0,TER_MI_01
+NPI_000249,Dr. Christina Wood,Medical Oncologist,Boston,MA,Chavez-Cruz Medical Center,Community Hospital,8,NO_PREFERENCE,14,23,False,0,TER_NO_01
+NPI_000250,Dr. Cassidy Houston,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,7,SWITCHER,9,17,False,0,TER_SO_02
+NPI_000251,Dr. Krystal Mitchell,Medical Oncologist,Boston,MA,Bowen and Sons Medical Center,Private Practice,9,NO_PREFERENCE,15,29,False,0,TER_NO_01
+NPI_000252,Dr. Samantha Hogan,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,6,SWITCHER,12,26,False,0,TER_PA_01
+NPI_000253,Dr. Michael Erickson,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,16,5,False,0,TER_SO_01
+NPI_000254,Dr. Melissa Coleman,Medical Oncologist,Seattle,WA,May and Sons Medical Center,Teaching Hospital,9,SWITCHER,14,24,False,0,TER_PA_03
+NPI_000255,Dr. Stephen Rhodes,Hemato-Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,6,SWITCHER,11,33,False,0,TER_PA_02
+NPI_000256,Dr. Kyle Mann,Hemato-Oncologist,Cleveland,OH,"Jones, Beltran and Kennedy Medical Center",Teaching Hospital,9,ZYLATEC_LOYAL,12,23,False,0,TER_MI_02
+NPI_000257,Dr. Ashley Brown,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,13,34,False,0,TER_PA_02
+NPI_000258,Dr. Sonya Moreno,Hemato-Oncologist,Minneapolis,MN,Rivera-Jenkins Medical Center,Private Practice,9,ZYLATEC_LOYAL,12,23,False,0,TER_MI_03
+NPI_000259,Dr. Erica Tanner,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,6,ZYLATEC_LOYAL,12,29,False,0,TER_SO_02
+NPI_000260,Dr. Erika Mcintosh,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,6,SWITCHER,8,24,False,0,TER_NO_03
+NPI_000261,Dr. Erin West,Medical Oncologist,Cleveland,OH,Wheeler and Sons Medical Center,Community Hospital,10,SWITCHER,16,13,False,0,TER_MI_02
+NPI_000262,Dr. Nicholas Thompson,Medical Oncologist,Dallas,TX,"Carr, Brown and Baker Medical Center",Teaching Hospital,5,VEXORIN_LOYAL,10,6,False,0,TER_SO_02
+NPI_000263,Dr. Amanda Cunningham,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,10,NO_PREFERENCE,12,3,False,0,TER_MO_02
+NPI_000264,Dr. Rhonda Washington,Hemato-Oncologist,Houston,TX,"Ward, Fleming and Smith Medical Center",Teaching Hospital,6,VEXORIN_LOYAL,9,26,False,0,TER_SO_01
+NPI_000265,Dr. Raymond Landry,Medical Oncologist,New York,NY,Ramirez Group Medical Center,Community Hospital,9,NO_PREFERENCE,16,4,True,5,TER_NO_02
+NPI_000266,Dr. Barbara Lee,Medical Oncologist,Minneapolis,MN,Evans-Thomas Medical Center,Teaching Hospital,2,SWITCHER,2,35,False,0,TER_MI_03
+NPI_000267,Dr. Timothy Gonzalez,Hemato-Oncologist,Minneapolis,MN,Martin and Sons Medical Center,Private Practice,9,NO_PREFERENCE,11,9,False,0,TER_MI_03
+NPI_000268,Dr. Brianna Anderson,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,17,8,False,0,TER_SO_02
+NPI_000269,Dr. Jenny Thompson,Medical Oncologist,Salt Lake City,UT,Franklin Inc Medical Center,Community Hospital,8,ZYLATEC_LOYAL,14,8,False,0,TER_MO_03
+NPI_000270,Dr. Eric Phillips,Hemato-Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,15,6,False,0,TER_SO_02
+NPI_000271,Dr. Jessica Powell,Pulmonologist,Phoenix,AZ,Young LLC Medical Center,Private Practice,4,SWITCHER,5,9,False,0,TER_MO_02
+NPI_000272,Dr. Amanda Ball,Hemato-Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,10,NO_PREFERENCE,18,33,True,3,TER_NO_01
+NPI_000273,Dr. Kelly Rodriguez,Pulmonologist,Nashville,TN,"Wyatt, Murillo and Luna Medical Center",Teaching Hospital,6,SWITCHER,8,23,False,0,TER_SO_03
+NPI_000274,Dr. Carolyn Rose,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,6,NO_PREFERENCE,11,7,False,0,TER_MI_01
+NPI_000275,Dr. Roberta Campbell,Medical Oncologist,Houston,TX,"Moore, Blackwell and Wilson Medical Center",Teaching Hospital,8,NO_PREFERENCE,14,24,False,0,TER_SO_01
+NPI_000276,Dr. Micheal Howard,Pulmonologist,New York,NY,"Rogers, Reyes and Harrington Medical Center",Teaching Hospital,10,VEXORIN_LOYAL,18,25,True,4,TER_NO_02
+NPI_000277,Dr. Mark Foley,Medical Oncologist,Phoenix,AZ,Williams Ltd Medical Center,Teaching Hospital,4,SWITCHER,6,23,False,0,TER_MO_02
+NPI_000278,Dr. Michael Reyes,Medical Oncologist,Minneapolis,MN,Shaw Inc Medical Center,Community Hospital,6,SWITCHER,9,27,False,0,TER_MI_03
+NPI_000279,Dr. James Reynolds,Medical Oncologist,Denver,CO,Marshall LLC Medical Center,Teaching Hospital,9,VEXORIN_LOYAL,15,18,False,0,TER_MO_01
+NPI_000280,Dr. Bryan White,Medical Oncologist,Phoenix,AZ,Martin-Day Medical Center,Teaching Hospital,5,SWITCHER,9,23,False,0,TER_MO_02
+NPI_000281,Dr. Elizabeth Johnson,Medical Oncologist,Los Angeles,CA,Collins-Garcia Medical Center,Community Hospital,4,ZYLATEC_LOYAL,7,9,False,0,TER_PA_01
+NPI_000282,Dr. Holly Williams,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,6,SWITCHER,9,4,False,0,TER_NO_02
+NPI_000283,Dr. Diane Brown,Medical Oncologist,Chicago,IL,"Pena, Foster and Stanley Medical Center",Teaching Hospital,8,SWITCHER,15,3,True,4,TER_MI_01
+NPI_000284,Dr. Marc Smith,Pulmonologist,Denver,CO,Calhoun Inc Medical Center,Teaching Hospital,9,NO_PREFERENCE,12,13,False,0,TER_MO_01
+NPI_000285,Dr. Brittany Gray,Medical Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,6,VEXORIN_LOYAL,8,20,False,0,TER_PA_03
+NPI_000286,Dr. Shannon Lopez,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,11,34,False,0,TER_SO_02
+NPI_000287,Dr. Michael Mclean,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,4,NO_PREFERENCE,5,27,False,0,TER_SO_03
+NPI_000288,Dr. Steven Bowen,Hemato-Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,7,NO_PREFERENCE,13,11,False,0,TER_MO_01
+NPI_000289,Dr. Joyce Cox,Medical Oncologist,Los Angeles,CA,"Turner, Green and Clark Medical Center",Teaching Hospital,9,SWITCHER,12,28,False,0,TER_PA_01
+NPI_000290,Dr. Elizabeth Thompson,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,9,SWITCHER,12,27,True,4,TER_NO_03
+NPI_000291,Dr. Richard Jones,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,10,NO_PREFERENCE,13,4,False,0,TER_MI_01
+NPI_000292,Dr. Allison Ramirez,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,16,29,False,0,TER_MI_03
+NPI_000293,Dr. Timothy Villa,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,7,VEXORIN_LOYAL,11,27,False,0,TER_NO_01
+NPI_000294,Dr. Madison Malone,Medical Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,10,ZYLATEC_LOYAL,16,29,False,0,TER_PA_03
+NPI_000295,Dr. Jerome Stewart,Pulmonologist,Denver,CO,Miller-Morgan Medical Center,Private Practice,7,SWITCHER,12,8,False,0,TER_MO_01
+NPI_000296,Dr. Linda Hernandez,Medical Oncologist,Salt Lake City,UT,Stafford Inc Medical Center,Teaching Hospital,6,VEXORIN_LOYAL,10,28,False,0,TER_MO_03
+NPI_000297,Dr. Jonathan Becker,Hemato-Oncologist,Houston,TX,Murray-Turner Medical Center,Private Practice,7,VEXORIN_LOYAL,9,17,False,0,TER_SO_01
+NPI_000298,Dr. Barbara Stark,Medical Oncologist,Nashville,TN,"Hernandez, Wilkinson and Gordon Medical Center",Teaching Hospital,8,SWITCHER,12,28,False,0,TER_SO_03
+NPI_000299,Dr. Brian Rowe,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,NO_PREFERENCE,14,21,False,0,TER_SO_02
+NPI_000300,Dr. Antonio Thomas,Hemato-Oncologist,Philadelphia,PA,Hayes Group Medical Center,Community Hospital,4,VEXORIN_LOYAL,5,32,False,0,TER_NO_03
+NPI_000301,Dr. Thomas Mcgrath,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,8,VEXORIN_LOYAL,14,31,False,0,TER_SO_02
+NPI_000302,Dr. Nathaniel Aguilar,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,10,NO_PREFERENCE,17,13,False,0,TER_MI_03
+NPI_000303,Dr. Chelsea Henderson,Pulmonologist,San Francisco,CA,"Craig, Davis and Patton Medical Center",Teaching Hospital,8,ZYLATEC_LOYAL,12,32,True,4,TER_PA_02
+NPI_000304,Dr. Mark Smith,Pulmonologist,Cleveland,OH,Romero Group Medical Center,Teaching Hospital,6,ZYLATEC_LOYAL,11,15,False,0,TER_MI_02
+NPI_000305,Dr. Kimberly Lee,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,11,7,False,0,TER_MO_01
+NPI_000306,Dr. Lindsey Cox,Pulmonologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,8,VEXORIN_LOYAL,10,34,False,0,TER_SO_01
+NPI_000307,Dr. Crystal Hall,Pulmonologist,Seattle,WA,Ryan and Sons Medical Center,Teaching Hospital,9,SWITCHER,13,32,False,0,TER_PA_03
+NPI_000308,Dr. Tammy Espinoza,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,9,SWITCHER,11,11,False,0,TER_NO_03
+NPI_000309,Dr. Katie Carroll,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,5,VEXORIN_LOYAL,7,11,False,0,TER_MI_02
+NPI_000310,Dr. Jo Lopez,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,8,SWITCHER,16,14,False,0,TER_SO_02
+NPI_000311,Dr. Sarah Long,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,5,SWITCHER,6,25,False,0,TER_MI_01
+NPI_000312,Dr. John Warren,Hemato-Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,13,34,False,0,TER_MO_01
+NPI_000313,Dr. Joshua Butler,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,9,VEXORIN_LOYAL,15,17,True,4,TER_MO_02
+NPI_000314,Dr. Christopher Nguyen,Medical Oncologist,Boston,MA,"Berg, Hickman and Bird Medical Center",Private Practice,7,SWITCHER,13,34,False,0,TER_NO_01
+NPI_000315,Dr. William Larson,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,4,SWITCHER,7,26,False,0,TER_MI_01
+NPI_000316,Dr. Curtis Strickland,Medical Oncologist,Boston,MA,Nguyen Group Medical Center,Private Practice,9,ZYLATEC_LOYAL,12,30,True,5,TER_NO_01
+NPI_000317,Dr. Justin Scott,Pulmonologist,New York,NY,Morrow PLC Medical Center,Community Hospital,7,ZYLATEC_LOYAL,10,8,False,0,TER_NO_02
+NPI_000318,Dr. Tina Perez,Medical Oncologist,Chicago,IL,"Hudson, Fowler and Powell Medical Center",Private Practice,10,ZYLATEC_LOYAL,19,25,False,0,TER_MI_01
+NPI_000319,Dr. Sandra Thompson,Pulmonologist,Cleveland,OH,Johnson Group Medical Center,Teaching Hospital,8,SWITCHER,15,6,False,0,TER_MI_02
+NPI_000320,Dr. George Rasmussen,Medical Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,9,NO_PREFERENCE,13,20,False,0,TER_MO_03
+NPI_000321,Dr. Stefanie Rogers,Medical Oncologist,Salt Lake City,UT,"Castro, Navarro and Blackburn Medical Center",Private Practice,10,VEXORIN_LOYAL,18,29,False,0,TER_MO_03
+NPI_000322,Dr. Gregory Mendoza,Hemato-Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,10,NO_PREFERENCE,14,23,False,0,TER_SO_01
+NPI_000323,Dr. Linda Rose,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,SWITCHER,12,29,False,0,TER_SO_02
+NPI_000324,Dr. David Hill,Medical Oncologist,Denver,CO,"Mitchell, Watson and Frost Medical Center",Private Practice,10,ZYLATEC_LOYAL,18,26,False,0,TER_MO_01
+NPI_000325,Dr. Samuel Ponce,Medical Oncologist,Philadelphia,PA,Tran PLC Medical Center,Private Practice,8,NO_PREFERENCE,10,32,False,0,TER_NO_03
+NPI_000326,Dr. David Jones,Pulmonologist,Nashville,TN,Taylor-Hill Medical Center,Private Practice,10,ZYLATEC_LOYAL,20,16,False,0,TER_SO_03
+NPI_000327,Dr. Melissa Chavez,Medical Oncologist,Denver,CO,Rosales Ltd Medical Center,Teaching Hospital,7,VEXORIN_LOYAL,13,24,False,0,TER_MO_01
+NPI_000328,Dr. Michael Foster,Hemato-Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,SWITCHER,17,4,True,3,TER_SO_02
+NPI_000329,Dr. Kenneth Cummings,Medical Oncologist,New York,NY,"Diaz, Perez and Roberts Medical Center",Community Hospital,1,ZYLATEC_LOYAL,1,11,False,0,TER_NO_02
+NPI_000330,Dr. Jeffery Yoder,Hemato-Oncologist,New York,NY,Reyes-Bell Medical Center,Private Practice,7,NO_PREFERENCE,8,26,False,0,TER_NO_02
+NPI_000331,Dr. Jennifer Hardy,Medical Oncologist,Denver,CO,"Benitez, Page and Johnson Medical Center",Community Hospital,7,VEXORIN_LOYAL,10,22,False,0,TER_MO_01
+NPI_000332,Dr. Bill Vazquez,Pulmonologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,9,VEXORIN_LOYAL,11,16,False,0,TER_NO_02
+NPI_000333,Dr. Lauren Payne,Medical Oncologist,Philadelphia,PA,Harper-Park Medical Center,Teaching Hospital,6,VEXORIN_LOYAL,10,10,False,0,TER_NO_03
+NPI_000334,Dr. Charles Hicks,Hemato-Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,8,VEXORIN_LOYAL,12,9,True,4,TER_SO_03
+NPI_000335,Dr. Amanda Abbott,Hemato-Oncologist,Los Angeles,CA,Lang and Sons Medical Center,Private Practice,5,SWITCHER,6,12,False,0,TER_PA_01
+NPI_000336,Dr. Christina Hernandez,Medical Oncologist,Chicago,IL,Barrett-Anderson Medical Center,Teaching Hospital,8,VEXORIN_LOYAL,12,16,False,0,TER_MI_01
+NPI_000337,Dr. Jerry Harrell,Medical Oncologist,San Francisco,CA,"Vang, Woods and Rivera Medical Center",Teaching Hospital,7,NO_PREFERENCE,8,9,False,0,TER_PA_02
+NPI_000338,Dr. Mary Powell,Medical Oncologist,Boston,MA,Torres-Patton Medical Center,Teaching Hospital,5,ZYLATEC_LOYAL,7,11,False,0,TER_NO_01
+NPI_000339,Dr. Valerie Calderon,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,9,SWITCHER,16,21,False,0,TER_PA_02
+NPI_000340,Dr. Gary Smith,Pulmonologist,Minneapolis,MN,Shelton-Young Medical Center,Teaching Hospital,10,ZYLATEC_LOYAL,16,35,True,4,TER_MI_03
+NPI_000341,Dr. Rebecca Guzman,Medical Oncologist,Salt Lake City,UT,Campos-Swanson Medical Center,Private Practice,3,NO_PREFERENCE,4,10,False,0,TER_MO_03
+NPI_000342,Dr. Manuel Hendrix,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,9,NO_PREFERENCE,10,26,False,0,TER_PA_02
+NPI_000343,Dr. Anna Johnson,Medical Oncologist,Nashville,TN,Hoffman Inc Medical Center,Teaching Hospital,10,ZYLATEC_LOYAL,18,33,False,0,TER_SO_03
+NPI_000344,Dr. Larry Jackson,Pulmonologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,2,ZYLATEC_LOYAL,2,6,False,0,TER_PA_02
+NPI_000345,Dr. Eugene Garcia,Hemato-Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,7,SWITCHER,13,30,False,0,TER_MI_03
+NPI_000346,Dr. George Hernandez,Pulmonologist,Boston,MA,"Savage, Knight and Thomas Medical Center",Teaching Hospital,4,SWITCHER,5,22,False,0,TER_NO_01
+NPI_000347,Dr. Michael Key,Medical Oncologist,Seattle,WA,"White, Hernandez and Wu Medical Center",Community Hospital,10,VEXORIN_LOYAL,14,7,False,0,TER_PA_03
+NPI_000348,Dr. Cory Jefferson,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,10,ZYLATEC_LOYAL,20,10,False,0,TER_MI_01
+NPI_000349,Dr. Julie Moran,Pulmonologist,Boston,MA,Walters-Clarke Medical Center,Teaching Hospital,7,SWITCHER,9,11,False,0,TER_NO_01
+NPI_000350,Dr. Kevin Dixon,Pulmonologist,Philadelphia,PA,Thompson Inc Medical Center,Community Hospital,5,SWITCHER,9,19,False,0,TER_NO_03
+NPI_000351,Dr. Robin Moran,Medical Oncologist,Philadelphia,PA,"Rosales, Carter and Jones Medical Center",Private Practice,5,ZYLATEC_LOYAL,9,4,False,0,TER_NO_03
+NPI_000352,Dr. Joseph Lewis,Medical Oncologist,Nashville,TN,"Martinez, Owen and Howard Medical Center",Teaching Hospital,8,ZYLATEC_LOYAL,16,7,False,0,TER_SO_03
+NPI_000353,Dr. Caitlin Webster,Medical Oncologist,New York,NY,Benton-Simmons Medical Center,Private Practice,3,VEXORIN_LOYAL,4,9,False,0,TER_NO_02
+NPI_000354,Dr. Nicole Castillo,Hemato-Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,9,SWITCHER,10,3,True,4,TER_SO_01
+NPI_000355,Dr. Michael Hensley,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,10,NO_PREFERENCE,12,29,True,3,TER_SO_01
+NPI_000356,Dr. Sheila Hill,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,VEXORIN_LOYAL,13,35,False,0,TER_SO_02
+NPI_000357,Dr. Jill Butler,Medical Oncologist,Houston,TX,"Oliver, Marsh and Lee Medical Center",Teaching Hospital,6,VEXORIN_LOYAL,9,32,False,0,TER_SO_01
+NPI_000358,Dr. Lisa Perez,Hemato-Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,9,VEXORIN_LOYAL,14,26,True,5,TER_MO_03
+NPI_000359,Dr. Jeffery Mooney,Pulmonologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,18,15,False,0,TER_MO_01
+NPI_000360,Dr. Tiffany Gallegos,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,10,NO_PREFERENCE,12,25,False,0,TER_NO_02
+NPI_000361,Dr. Jessica Diaz,Pulmonologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,1,SWITCHER,1,22,False,0,TER_PA_01
+NPI_000362,Dr. David Levy,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,8,SWITCHER,10,12,False,0,TER_SO_03
+NPI_000363,Dr. Brenda Brown,Medical Oncologist,Phoenix,AZ,West PLC Medical Center,Private Practice,10,SWITCHER,18,26,False,0,TER_MO_02
+NPI_000364,Dr. Andrew Torres,Pulmonologist,Chicago,IL,Singh Group Medical Center,Teaching Hospital,8,SWITCHER,12,6,False,0,TER_MI_01
+NPI_000365,Dr. Jackie Murphy,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,6,ZYLATEC_LOYAL,11,23,False,0,TER_NO_03
+NPI_000366,Dr. Eric Castillo,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,6,ZYLATEC_LOYAL,11,9,False,0,TER_MO_01
+NPI_000367,Dr. Brittany Warren,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,5,ZYLATEC_LOYAL,8,16,False,0,TER_PA_02
+NPI_000368,Dr. Michelle Henderson,Medical Oncologist,Denver,CO,Pierce-Hall Medical Center,Private Practice,8,VEXORIN_LOYAL,15,22,False,0,TER_MO_01
+NPI_000369,Dr. Elizabeth Fuentes,Pulmonologist,Seattle,WA,"Miller, Cole and Cross Medical Center",Private Practice,3,ZYLATEC_LOYAL,3,18,False,0,TER_PA_03
+NPI_000370,Dr. Susan Medina,Hemato-Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,7,ZYLATEC_LOYAL,13,14,False,0,TER_PA_03
+NPI_000371,Dr. Joan Martin,Medical Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,7,SWITCHER,9,32,False,0,TER_SO_03
+NPI_000372,Dr. Michael Wilson,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,10,VEXORIN_LOYAL,19,17,True,4,TER_SO_02
+NPI_000373,Dr. Stacey Mathis,Medical Oncologist,Chicago,IL,"Cardenas, Murphy and Hall Medical Center",Teaching Hospital,9,SWITCHER,12,7,True,3,TER_MI_01
+NPI_000374,Dr. James Melton,Medical Oncologist,Cleveland,OH,"Cervantes, Mayo and Delgado Medical Center",Private Practice,9,VEXORIN_LOYAL,17,24,True,4,TER_MI_02
+NPI_000375,Dr. Stephanie Morris,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,10,SWITCHER,16,27,False,0,TER_NO_02
+NPI_000376,Dr. Richard Johnson,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,6,ZYLATEC_LOYAL,11,5,False,0,TER_PA_02
+NPI_000377,Dr. Michael Melton,Pulmonologist,Denver,CO,Smith Inc Medical Center,Teaching Hospital,9,SWITCHER,17,33,True,4,TER_MO_01
+NPI_000378,Dr. Christina Murray,Medical Oncologist,Seattle,WA,Higgins-Anderson Medical Center,Teaching Hospital,8,SWITCHER,11,4,False,0,TER_PA_03
+NPI_000379,Dr. Alex Trujillo,Pulmonologist,Cleveland,OH,Stewart and Sons Medical Center,Teaching Hospital,7,SWITCHER,14,35,False,0,TER_MI_02
+NPI_000380,Dr. Rebecca Young,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,6,SWITCHER,7,20,False,0,TER_NO_01
+NPI_000381,Dr. Gregory Wheeler,Medical Oncologist,Nashville,TN,Morris-Wallace Medical Center,Teaching Hospital,10,SWITCHER,20,13,True,5,TER_SO_03
+NPI_000382,Dr. Dustin Kerr,Medical Oncologist,Phoenix,AZ,"White, Miller and Brown Medical Center",Private Practice,8,SWITCHER,15,17,False,0,TER_MO_02
+NPI_000383,Dr. Michael Pearson,Hemato-Oncologist,Seattle,WA,Meyers Group Medical Center,Community Hospital,7,NO_PREFERENCE,9,18,False,0,TER_PA_03
+NPI_000384,Dr. Jordan Harris,Pulmonologist,Cleveland,OH,"Tate, Carney and Mcbride Medical Center",Teaching Hospital,10,NO_PREFERENCE,12,25,False,0,TER_MI_02
+NPI_000385,Dr. Katherine Bell,Pulmonologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,8,NO_PREFERENCE,15,34,False,0,TER_SO_03
+NPI_000386,Dr. Kara Hunter,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,3,SWITCHER,3,33,False,0,TER_SO_01
+NPI_000387,Dr. Brandi Gray,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,10,VEXORIN_LOYAL,18,23,True,3,TER_SO_01
+NPI_000388,Dr. Sara Morgan,Pulmonologist,Philadelphia,PA,Fox-Beck Medical Center,Private Practice,10,NO_PREFERENCE,19,7,False,0,TER_NO_03
+NPI_000389,Dr. Ashley Doyle,Hemato-Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,7,ZYLATEC_LOYAL,9,13,False,0,TER_MO_02
+NPI_000390,Dr. Lisa Krueger,Pulmonologist,Salt Lake City,UT,Parrish-Kane Medical Center,Teaching Hospital,8,SWITCHER,11,25,True,5,TER_MO_03
+NPI_000391,Dr. Stacey Henry,Hemato-Oncologist,Los Angeles,CA,Mays LLC Medical Center,Teaching Hospital,7,ZYLATEC_LOYAL,9,3,False,0,TER_PA_01
+NPI_000392,Dr. Sabrina Perez,Hemato-Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,10,NO_PREFERENCE,20,5,True,4,TER_PA_01
+NPI_000393,Dr. Cathy Oliver,Hemato-Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,10,SWITCHER,20,12,False,0,TER_PA_02
+NPI_000394,Dr. Morgan Thompson,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,7,SWITCHER,14,24,False,0,TER_SO_01
+NPI_000395,Dr. Sarah Ayala,Medical Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,6,VEXORIN_LOYAL,8,9,False,0,TER_NO_02
+NPI_000396,Dr. Charles Peterson,Pulmonologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,3,ZYLATEC_LOYAL,4,29,False,0,TER_SO_03
+NPI_000397,Dr. Timothy Oneill,Medical Oncologist,Los Angeles,CA,Nguyen-Fox Medical Center,Teaching Hospital,7,VEXORIN_LOYAL,11,17,False,0,TER_PA_01
+NPI_000398,Dr. Craig Shaw,Medical Oncologist,Boston,MA,"Salinas, Fuentes and Watts Medical Center",Private Practice,4,ZYLATEC_LOYAL,5,9,False,0,TER_NO_01
+NPI_000399,Dr. Timothy Alexander,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,5,SWITCHER,8,8,False,0,TER_MI_02
+NPI_000400,Dr. Samantha Moore,Medical Oncologist,Seattle,WA,Edwards-Nguyen Medical Center,Private Practice,10,SWITCHER,15,13,False,0,TER_PA_03
+NPI_000401,Dr. Alicia Elliott,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,3,NO_PREFERENCE,4,19,False,0,TER_SO_01
+NPI_000402,Dr. Eric Watkins,Pulmonologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,7,ZYLATEC_LOYAL,11,34,False,0,TER_SO_03
+NPI_000403,Dr. Joseph Cruz,Medical Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,7,ZYLATEC_LOYAL,12,33,False,0,TER_MO_03
+NPI_000404,Dr. Megan Larson,Medical Oncologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,2,ZYLATEC_LOYAL,2,10,False,0,TER_PA_03
+NPI_000405,Dr. Linda Simon,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,7,SWITCHER,8,27,False,0,TER_MO_01
+NPI_000406,Dr. Ana Garcia,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,10,ZYLATEC_LOYAL,14,32,True,4,TER_PA_02
+NPI_000407,Dr. Kelly Williams,Pulmonologist,Houston,TX,"Reynolds, Weaver and Jones Medical Center",Teaching Hospital,5,VEXORIN_LOYAL,9,29,False,0,TER_SO_01
+NPI_000408,Dr. Jennifer Hansen,Hemato-Oncologist,Los Angeles,CA,Norris-Rich Medical Center,Teaching Hospital,9,NO_PREFERENCE,17,29,False,0,TER_PA_01
+NPI_000409,Dr. Joshua Zamora,Pulmonologist,New York,NY,Robinson-Norman Medical Center,Teaching Hospital,10,ZYLATEC_LOYAL,14,28,False,0,TER_NO_02
+NPI_000410,Dr. Herbert Carroll,Pulmonologist,Salt Lake City,UT,Harris and Sons Medical Center,Community Hospital,8,NO_PREFERENCE,14,12,True,4,TER_MO_03
+NPI_000411,Dr. Tiffany Hampton,Medical Oncologist,Chicago,IL,"Hess, Vega and Edwards Medical Center",Community Hospital,10,NO_PREFERENCE,13,30,True,5,TER_MI_01
+NPI_000412,Dr. Michael Stevenson,Medical Oncologist,New York,NY,Richard-Tate Medical Center,Teaching Hospital,10,NO_PREFERENCE,14,7,True,5,TER_NO_02
+NPI_000413,Dr. Susan Gray,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,7,SWITCHER,13,29,False,0,TER_SO_02
+NPI_000414,Dr. Elizabeth Owens,Medical Oncologist,Boston,MA,Wong Ltd Medical Center,Teaching Hospital,5,SWITCHER,10,9,False,0,TER_NO_01
+NPI_000415,Dr. Madison Wilson,Hemato-Oncologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,8,ZYLATEC_LOYAL,13,25,False,0,TER_NO_02
+NPI_000416,Dr. Andrew Norris,Medical Oncologist,San Francisco,CA,Thompson-Hansen Medical Center,Teaching Hospital,9,SWITCHER,12,28,True,5,TER_PA_02
+NPI_000417,Dr. Andrew Oneal,Pulmonologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,7,NO_PREFERENCE,12,6,False,0,TER_NO_03
+NPI_000418,Dr. Heather Mills,Pulmonologist,New York,NY,"Elliott, Wang and Reed Medical Center",Private Practice,10,VEXORIN_LOYAL,19,22,False,0,TER_NO_02
+NPI_000419,Dr. Lindsey Campbell,Hemato-Oncologist,Denver,CO,"Williams, Tapia and Jones Medical Center",Teaching Hospital,10,NO_PREFERENCE,14,22,False,0,TER_MO_01
+NPI_000420,Dr. Joel Preston,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,10,ZYLATEC_LOYAL,17,15,False,0,TER_MI_03
+NPI_000421,Dr. Nicole Merritt,Hemato-Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,7,SWITCHER,10,6,False,0,TER_MI_01
+NPI_000422,Dr. Sean Buchanan,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,5,SWITCHER,6,4,False,0,TER_MO_02
+NPI_000423,Dr. Sheryl Ross,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,10,VEXORIN_LOYAL,12,6,False,0,TER_MI_02
+NPI_000424,Dr. Frederick Long,Pulmonologist,Seattle,WA,"Conner, Carr and Collins Medical Center",Private Practice,6,SWITCHER,10,10,False,0,TER_PA_03
+NPI_000425,Dr. Lisa Reyes,Pulmonologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,6,ZYLATEC_LOYAL,12,33,False,0,TER_MI_02
+NPI_000426,Dr. Debra Moody,Pulmonologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,7,NO_PREFERENCE,13,8,False,0,TER_MI_01
+NPI_000427,Dr. Kirk Dalton,Medical Oncologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,7,SWITCHER,14,17,False,0,TER_MI_03
+NPI_000428,Dr. Andrew Cummings,Pulmonologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,9,ZYLATEC_LOYAL,10,3,False,0,TER_MI_03
+NPI_000429,Dr. Joshua David,Medical Oncologist,San Francisco,CA,Johnson Inc Medical Center,Private Practice,5,ZYLATEC_LOYAL,8,22,False,0,TER_PA_02
+NPI_000430,Dr. Robert Brown,Pulmonologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,9,NO_PREFERENCE,17,32,True,4,TER_SO_03
+NPI_000431,Dr. Rachel Rhodes,Medical Oncologist,Salt Lake City,UT,"Hernandez, French and Smith Medical Center",Teaching Hospital,8,SWITCHER,9,26,False,0,TER_MO_03
+NPI_000432,Dr. Alyssa Taylor,Pulmonologist,Minneapolis,MN,Richardson Group Medical Center,Teaching Hospital,6,SWITCHER,9,20,False,0,TER_MI_03
+NPI_000433,Dr. David Le,Pulmonologist,Minneapolis,MN,Mayo Clinic Cancer Center,Cancer Center,10,SWITCHER,20,22,True,5,TER_MI_03
+NPI_000434,Dr. Debra Jones,Pulmonologist,Nashville,TN,"Armstrong, Wall and Huffman Medical Center",Private Practice,10,NO_PREFERENCE,17,23,False,0,TER_SO_03
+NPI_000435,Dr. Diamond Powers,Pulmonologist,Boston,MA,Martinez LLC Medical Center,Community Hospital,9,ZYLATEC_LOYAL,14,27,False,0,TER_NO_01
+NPI_000436,Dr. Joshua Mitchell,Pulmonologist,Minneapolis,MN,Good LLC Medical Center,Private Practice,10,ZYLATEC_LOYAL,18,33,False,0,TER_MI_03
+NPI_000437,Dr. Julie Rodriguez,Pulmonologist,Phoenix,AZ,Yu-Jones Medical Center,Private Practice,8,NO_PREFERENCE,15,14,True,4,TER_MO_02
+NPI_000438,Dr. Katie Duarte,Medical Oncologist,Nashville,TN,Reyes-Richardson Medical Center,Private Practice,6,SWITCHER,8,24,False,0,TER_SO_03
+NPI_000439,Dr. Jermaine Phillips,Pulmonologist,New York,NY,Memorial Sloan Kettering Cancer Center,Cancer Center,6,NO_PREFERENCE,9,24,False,0,TER_NO_02
+NPI_000440,Dr. Randy Webster,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,9,VEXORIN_LOYAL,11,7,False,0,TER_MI_01
+NPI_000441,Dr. Michael Morales,Medical Oncologist,Dallas,TX,Davis PLC Medical Center,Teaching Hospital,5,SWITCHER,7,12,False,0,TER_SO_02
+NPI_000442,Dr. Jennifer Berry,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,6,SWITCHER,12,32,False,0,TER_NO_01
+NPI_000443,Dr. Ryan Williams,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,10,VEXORIN_LOYAL,14,14,False,0,TER_PA_01
+NPI_000444,Dr. Susan Harris,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,8,SWITCHER,13,13,False,0,TER_MO_02
+NPI_000445,Dr. Alexander Ferrell,Pulmonologist,San Francisco,CA,Freeman Ltd Medical Center,Teaching Hospital,4,SWITCHER,6,33,False,0,TER_PA_02
+NPI_000446,Dr. Denise Lawrence,Medical Oncologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,3,ZYLATEC_LOYAL,3,23,False,0,TER_SO_01
+NPI_000447,Dr. Ashley Garza,Pulmonologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,8,VEXORIN_LOYAL,14,17,False,0,TER_SO_02
+NPI_000448,Dr. Tyler Lawson,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,5,SWITCHER,6,5,False,0,TER_MO_02
+NPI_000449,Dr. Lindsey Hodge,Medical Oncologist,San Francisco,CA,Chavez PLC Medical Center,Teaching Hospital,7,SWITCHER,10,11,False,0,TER_PA_02
+NPI_000450,Dr. Matthew Harris,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,10,VEXORIN_LOYAL,20,28,True,3,TER_MI_02
+NPI_000451,Dr. Frank Zuniga,Pulmonologist,Minneapolis,MN,Duncan-Jackson Medical Center,Teaching Hospital,5,SWITCHER,6,26,False,0,TER_MI_03
+NPI_000452,Dr. Diana Bernard,Pulmonologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,10,SWITCHER,18,6,False,0,TER_NO_01
+NPI_000453,Dr. Stephanie Wood,Medical Oncologist,Denver,CO,Romero Inc Medical Center,Private Practice,4,VEXORIN_LOYAL,5,31,False,0,TER_MO_01
+NPI_000454,Dr. Crystal Farrell,Medical Oncologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,8,VEXORIN_LOYAL,14,3,False,0,TER_MO_03
+NPI_000455,Dr. Amanda Martin,Pulmonologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,9,SWITCHER,11,9,False,0,TER_PA_02
+NPI_000456,Dr. Jacqueline Pollard,Pulmonologist,Houston,TX,Kerr Inc Medical Center,Private Practice,6,SWITCHER,10,19,False,0,TER_SO_01
+NPI_000457,Dr. Benjamin Howell,Hemato-Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,10,ZYLATEC_LOYAL,13,34,False,0,TER_SO_02
+NPI_000458,Dr. Cynthia Martin,Pulmonologist,Seattle,WA,Seattle Cancer Care Alliance,Cancer Center,8,VEXORIN_LOYAL,10,10,False,0,TER_PA_03
+NPI_000459,Dr. George Davis,Pulmonologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,5,SWITCHER,9,9,False,0,TER_MO_02
+NPI_000460,Dr. Sherry Garcia,Hemato-Oncologist,Nashville,TN,Vanderbilt-Ingram Cancer Center,Cancer Center,9,NO_PREFERENCE,12,6,True,3,TER_SO_03
+NPI_000461,Dr. Olivia Carter,Hemato-Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,10,SWITCHER,15,10,True,3,TER_MI_02
+NPI_000462,Dr. Susan Gray,Medical Oncologist,Boston,MA,Woodard-Graves Medical Center,Teaching Hospital,5,ZYLATEC_LOYAL,10,20,False,0,TER_NO_01
+NPI_000463,Dr. Stacey Gordon,Hemato-Oncologist,Nashville,TN,"Evans, Smith and Hoffman Medical Center",Private Practice,4,VEXORIN_LOYAL,6,32,False,0,TER_SO_03
+NPI_000464,Dr. David Williams,Medical Oncologist,Dallas,TX,Williams LLC Medical Center,Private Practice,7,SWITCHER,12,13,False,0,TER_SO_02
+NPI_000465,Dr. Tammy Crane,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,9,NO_PREFERENCE,12,29,False,0,TER_MO_01
+NPI_000466,Dr. Heather Schwartz,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,8,SWITCHER,15,4,False,0,TER_MO_01
+NPI_000467,Dr. Kristin Brown,Hemato-Oncologist,San Francisco,CA,Green PLC Medical Center,Private Practice,9,SWITCHER,14,29,False,0,TER_PA_02
+NPI_000468,Dr. Austin Arnold,Medical Oncologist,Los Angeles,CA,Cedars-Sinai Samuel Oschin Cancer Center,Cancer Center,9,NO_PREFERENCE,15,17,False,0,TER_PA_01
+NPI_000469,Dr. Lindsey Farmer,Pulmonologist,Chicago,IL,Mendoza Group Medical Center,Teaching Hospital,7,SWITCHER,9,18,False,0,TER_MI_01
+NPI_000470,Dr. Thomas Valdez,Medical Oncologist,Cleveland,OH,Mcgee Group Medical Center,Teaching Hospital,9,VEXORIN_LOYAL,17,6,True,3,TER_MI_02
+NPI_000471,Dr. Robert Saunders,Medical Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,8,VEXORIN_LOYAL,15,23,True,4,TER_PA_02
+NPI_000472,Dr. Jennifer Mcmahon,Medical Oncologist,Houston,TX,Bender Inc Medical Center,Teaching Hospital,6,ZYLATEC_LOYAL,8,32,False,0,TER_SO_01
+NPI_000473,Dr. Erin Mason,Medical Oncologist,Phoenix,AZ,Mayo Clinic Cancer Center Arizona,Cancer Center,8,SWITCHER,11,34,False,0,TER_MO_02
+NPI_000474,Dr. Christopher Kemp,Medical Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,7,SWITCHER,13,22,False,0,TER_MO_01
+NPI_000475,Dr. Christopher Day,Hemato-Oncologist,Cleveland,OH,Durham-Perez Medical Center,Teaching Hospital,8,SWITCHER,12,6,False,0,TER_MI_02
+NPI_000476,Dr. Andrea Long,Hemato-Oncologist,New York,NY,Cortez Inc Medical Center,Private Practice,7,SWITCHER,12,26,False,0,TER_NO_02
+NPI_000477,Dr. Linda Powell,Pulmonologist,Dallas,TX,"Morrison, Bruce and Herring Medical Center",Private Practice,4,ZYLATEC_LOYAL,6,21,False,0,TER_SO_02
+NPI_000478,Dr. Lisa Copeland,Medical Oncologist,Cleveland,OH,Cleveland Clinic Taussig Cancer Institute,Cancer Center,7,NO_PREFERENCE,11,29,False,0,TER_MI_02
+NPI_000479,Dr. William Mccall,Medical Oncologist,Dallas,TX,UT Southwestern Simmons Cancer Center,Cancer Center,9,NO_PREFERENCE,13,32,False,0,TER_SO_02
+NPI_000480,Dr. Erik Taylor,Medical Oncologist,New York,NY,"Rich, Delgado and Garcia Medical Center",Private Practice,7,VEXORIN_LOYAL,12,10,False,0,TER_NO_02
+NPI_000481,Dr. Lori Thompson,Pulmonologist,Seattle,WA,Allen and Sons Medical Center,Teaching Hospital,8,NO_PREFERENCE,10,34,True,5,TER_PA_03
+NPI_000482,Dr. Jonathan Wiley,Medical Oncologist,Philadelphia,PA,Ayala-Brown Medical Center,Private Practice,10,SWITCHER,16,14,False,0,TER_NO_03
+NPI_000483,Dr. John Pena,Medical Oncologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,10,SWITCHER,17,23,False,0,TER_MI_01
+NPI_000484,Dr. Leah Glass,Medical Oncologist,Salt Lake City,UT,"Kane, Crawford and Moyer Medical Center",Community Hospital,10,SWITCHER,14,24,False,0,TER_MO_03
+NPI_000485,Dr. Tiffany Velez,Medical Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,5,SWITCHER,9,22,False,0,TER_NO_03
+NPI_000486,Dr. Megan Guzman,Hemato-Oncologist,San Francisco,CA,UCSF Helen Diller Cancer Center,Cancer Center,8,SWITCHER,13,16,True,5,TER_PA_02
+NPI_000487,Dr. Meghan Jackson,Pulmonologist,Minneapolis,MN,"Lewis, Rodriguez and Cook Medical Center",Community Hospital,9,VEXORIN_LOYAL,16,14,False,0,TER_MI_03
+NPI_000488,Dr. Laura Parker,Pulmonologist,Houston,TX,MD Anderson Cancer Center,Cancer Center,7,ZYLATEC_LOYAL,11,29,False,0,TER_SO_01
+NPI_000489,Dr. Julie Davis,Pulmonologist,Seattle,WA,"Patterson, Rivera and Allen Medical Center",Teaching Hospital,10,NO_PREFERENCE,15,3,False,0,TER_PA_03
+NPI_000490,Dr. Mark Russell,Medical Oncologist,Chicago,IL,Peterson-Singleton Medical Center,Teaching Hospital,5,VEXORIN_LOYAL,9,13,False,0,TER_MI_01
+NPI_000491,Dr. Sarah Anderson,Hemato-Oncologist,Philadelphia,PA,Penn Medicine Abramson Cancer Center,Cancer Center,9,VEXORIN_LOYAL,17,16,False,0,TER_NO_03
+NPI_000492,Dr. Eric Welch,Medical Oncologist,Boston,MA,Dana-Farber Cancer Institute,Cancer Center,10,NO_PREFERENCE,18,17,False,0,TER_NO_01
+NPI_000493,Dr. David Williams,Pulmonologist,New York,NY,Berry-Larsen Medical Center,Private Practice,6,SWITCHER,8,6,False,0,TER_NO_02
+NPI_000494,Dr. Jason Brock,Hemato-Oncologist,Chicago,IL,"Villegas, Goodwin and Jackson Medical Center",Community Hospital,7,NO_PREFERENCE,10,6,False,0,TER_MI_01
+NPI_000495,Dr. Richard Espinoza,Medical Oncologist,Philadelphia,PA,Wagner-Morris Medical Center,Teaching Hospital,6,SWITCHER,11,17,False,0,TER_NO_03
+NPI_000496,Dr. Andrea Mcdonald,Hemato-Oncologist,Seattle,WA,"Armstrong, Johnson and Ray Medical Center",Teaching Hospital,9,SWITCHER,15,15,False,0,TER_PA_03
+NPI_000497,Dr. Jessica Brown,Hemato-Oncologist,Denver,CO,UCHealth University of Colorado Cancer Center,Cancer Center,7,SWITCHER,9,14,False,0,TER_MO_01
+NPI_000498,Dr. Julie Fox,Pulmonologist,Chicago,IL,Northwestern Medicine Lurie Cancer Center,Cancer Center,5,ZYLATEC_LOYAL,7,13,False,0,TER_MI_01
+NPI_000499,Dr. Angela Allen,Pulmonologist,Salt Lake City,UT,Huntsman Cancer Institute,Cancer Center,6,SWITCHER,8,12,False,0,TER_MO_03
+NPI_000500,Dr. Susan Sosa,Hemato-Oncologist,New York,NY,Schmidt-Clay Medical Center,Private Practice,9,SWITCHER,17,22,False,0,TER_NO_02

@@ -1,0 +1,16 @@
+territory_id,territory_name,region,zone,city,state,total_hcps_mapped,high_decile_hcps,cancer_centers_count,market_potential_score,competitor_rep_count
+TER_NO_01,Boston North,NORTHEAST,New England / Mid-Atlantic,Boston,MA,34,20,1,383,4
+TER_NO_02,New York Central,NORTHEAST,New England / Mid-Atlantic,New York,NY,34,23,1,386,4
+TER_NO_03,Philadelphia South,NORTHEAST,New England / Mid-Atlantic,Philadelphia,PA,33,20,1,396,2
+TER_SO_01,Houston North,SOUTH_CENTRAL,South Central,Houston,TX,34,18,1,342,4
+TER_SO_02,Dallas Central,SOUTH_CENTRAL,South Central,Dallas,TX,33,25,1,411,3
+TER_SO_03,Nashville South,SOUTH_CENTRAL,South Central,Nashville,TN,32,22,1,380,3
+TER_MI_01,Chicago North,MIDWEST,Great Lakes,Chicago,IL,34,29,1,436,3
+TER_MI_02,Cleveland Central,MIDWEST,Great Lakes,Cleveland,OH,33,27,1,418,1
+TER_MI_03,Minneapolis South,MIDWEST,Great Lakes,Minneapolis,MN,34,26,1,422,1
+TER_MO_01,Denver North,MOUNTAIN_WEST,Mountain West,Denver,CO,33,29,1,432,2
+TER_MO_02,Phoenix Central,MOUNTAIN_WEST,Mountain West,Phoenix,AZ,34,20,1,394,2
+TER_MO_03,Salt Lake City South,MOUNTAIN_WEST,Mountain West,Salt Lake City,UT,33,26,1,402,1
+TER_PA_01,Los Angeles North,PACIFIC,Pacific Coast,Los Angeles,CA,31,22,1,365,1
+TER_PA_02,San Francisco Central,PACIFIC,Pacific Coast,San Francisco,CA,34,24,1,389,3
+TER_PA_03,Seattle South,PACIFIC,Pacific Coast,Seattle,WA,34,23,1,367,3

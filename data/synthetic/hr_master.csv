@@ -1,0 +1,65 @@
+emp_id,role,department,join_date,annual_ctc_usd,region,status
+EMP_001,Regional Business Director,Commercial,02-23-2021,174432,NORTHEAST,ACTIVE
+EMP_002,Regional Business Director,Commercial,04-02-2022,173104,SOUTHEAST,ACTIVE
+EMP_003,Regional Business Director,Commercial,02-20-2021,146025,MIDWEST,ACTIVE
+EMP_004,Regional Business Director,Commercial,06-24-2021,161696,SOUTH_CENTRAL,ACTIVE
+EMP_005,Regional Business Director,Commercial,05-07-2022,176787,MOUNTAIN_WEST,ACTIVE
+EMP_006,Regional Business Director,Commercial,10-29-2021,147518,PACIFIC,ACTIVE
+EMP_007,Territory Business Manager,Commercial,09-08-2020,96032,NORTHEAST,ACTIVE
+EMP_008,Senior Territory Business Manager,Commercial,03-15-2022,93535,NORTHEAST,ACTIVE
+EMP_009,Senior Territory Business Manager,Commercial,08-17-2022,94427,NORTHEAST,ACTIVE
+EMP_010,Territory Business Manager,Commercial,05-28-2020,110256,NORTHEAST,ACTIVE
+EMP_011,Territory Business Manager,Commercial,09-10-2022,102800,NORTHEAST,ACTIVE
+EMP_012,Territory Business Manager,Commercial,10-30-2020,85076,NORTHEAST,ACTIVE
+EMP_013,Territory Business Manager,Commercial,09-22-2022,86664,NORTHEAST,ACTIVE
+EMP_014,Senior Territory Business Manager,Commercial,08-31-2020,104564,NORTHEAST,ACTIVE
+EMP_015,Senior Territory Business Manager,Commercial,04-23-2022,110050,NORTHEAST,ACTIVE
+EMP_016,Territory Business Manager,Commercial,02-14-2020,79757,SOUTH_CENTRAL,ACTIVE
+EMP_017,Senior Territory Business Manager,Commercial,02-23-2021,93449,SOUTH_CENTRAL,ACTIVE
+EMP_018,Territory Business Manager,Commercial,06-10-2020,109961,SOUTH_CENTRAL,ACTIVE
+EMP_019,Territory Business Manager,Commercial,10-06-2021,99453,SOUTH_CENTRAL,ACTIVE
+EMP_020,Territory Business Manager,Commercial,12-27-2020,112533,SOUTH_CENTRAL,ACTIVE
+EMP_021,Senior Territory Business Manager,Commercial,06-26-2021,97534,SOUTH_CENTRAL,ACTIVE
+EMP_022,Territory Business Manager,Commercial,03-12-2022,91563,SOUTH_CENTRAL,ACTIVE
+EMP_023,Senior Territory Business Manager,Commercial,05-07-2020,79793,SOUTH_CENTRAL,ACTIVE
+EMP_024,Territory Business Manager,Commercial,10-21-2021,106928,SOUTH_CENTRAL,ACTIVE
+EMP_025,Territory Business Manager,Commercial,03-16-2021,79574,MIDWEST,ACTIVE
+EMP_026,Senior Territory Business Manager,Commercial,04-04-2021,95032,MIDWEST,ACTIVE
+EMP_027,Senior Territory Business Manager,Commercial,03-10-2020,86051,MIDWEST,ON_LEAVE
+EMP_028,Senior Territory Business Manager,Commercial,01-29-2022,98559,MIDWEST,ACTIVE
+EMP_029,Senior Territory Business Manager,Commercial,07-23-2022,95019,MIDWEST,ACTIVE
+EMP_030,Senior Territory Business Manager,Commercial,02-07-2022,84175,MIDWEST,ACTIVE
+EMP_031,Territory Business Manager,Commercial,07-24-2021,108238,MIDWEST,ACTIVE
+EMP_032,Territory Business Manager,Commercial,10-06-2020,111149,MIDWEST,ACTIVE
+EMP_033,Territory Business Manager,Commercial,07-02-2022,89634,MIDWEST,ACTIVE
+EMP_034,Territory Business Manager,Commercial,07-20-2020,108450,MOUNTAIN_WEST,ACTIVE
+EMP_035,Territory Business Manager,Commercial,08-11-2020,85868,MOUNTAIN_WEST,ACTIVE
+EMP_036,Territory Business Manager,Commercial,06-21-2021,112081,MOUNTAIN_WEST,ACTIVE
+EMP_037,Senior Territory Business Manager,Commercial,08-21-2020,106958,MOUNTAIN_WEST,ACTIVE
+EMP_038,Territory Business Manager,Commercial,08-11-2022,108940,MOUNTAIN_WEST,ACTIVE
+EMP_039,Senior Territory Business Manager,Commercial,11-13-2021,77615,MOUNTAIN_WEST,ACTIVE
+EMP_040,Senior Territory Business Manager,Commercial,03-04-2021,112366,MOUNTAIN_WEST,ACTIVE
+EMP_041,Territory Business Manager,Commercial,02-23-2020,99663,MOUNTAIN_WEST,ACTIVE
+EMP_042,Senior Territory Business Manager,Commercial,01-04-2021,97612,MOUNTAIN_WEST,ACTIVE
+EMP_043,Territory Business Manager,Commercial,05-28-2020,90072,PACIFIC,ACTIVE
+EMP_044,Territory Business Manager,Commercial,11-07-2021,98738,PACIFIC,ACTIVE
+EMP_045,Senior Territory Business Manager,Commercial,04-24-2022,82427,PACIFIC,ACTIVE
+EMP_046,Territory Business Manager,Commercial,02-14-2021,101928,PACIFIC,ACTIVE
+EMP_047,Territory Business Manager,Commercial,06-29-2021,77568,PACIFIC,ACTIVE
+EMP_048,Senior Territory Business Manager,Commercial,08-26-2020,108858,PACIFIC,ON_LEAVE
+EMP_049,Senior Territory Business Manager,Commercial,11-29-2020,89194,PACIFIC,ON_LEAVE
+EMP_050,Territory Business Manager,Commercial,05-16-2020,101920,PACIFIC,ACTIVE
+EMP_051,Senior Territory Business Manager,Commercial,05-16-2022,97457,PACIFIC,ACTIVE
+EMP_HQ_001,VP Commercial,Commercial,03-03-2017,205618,,ACTIVE
+EMP_HQ_002,Director Market Access,Commercial,07-01-2020,164834,,ACTIVE
+EMP_HQ_003,Brand Manager AURONIX,Commercial,03-07-2020,125457,,ACTIVE
+EMP_HQ_004,Brand Manager VEXORIN,Commercial,04-25-2017,126555,,ACTIVE
+EMP_HQ_005,Commercial Analytics Lead,Commercial,02-02-2021,122072,,ACTIVE
+EMP_HQ_006,Medical Science Liaison,Medical Affairs,07-10-2020,138330,,ACTIVE
+EMP_HQ_007,Medical Science Liaison,Medical Affairs,08-03-2017,125030,,ACTIVE
+EMP_HQ_008,Head of Manufacturing,Manufacturing,01-08-2019,175843,,ACTIVE
+EMP_HQ_009,Plant Operations Manager,Manufacturing,06-13-2019,117365,,ACTIVE
+EMP_HQ_010,Supply Chain Manager,Manufacturing,04-21-2019,106167,,ACTIVE
+EMP_HQ_011,CFO,Corporate,09-06-2018,283781,,ACTIVE
+EMP_HQ_012,HR Business Partner,Corporate,02-04-2018,99618,,ACTIVE
+EMP_HQ_013,IT Director,Corporate,07-05-2018,141047,,ACTIVE

@@ -706,7 +706,7 @@ def render_analysis(kpis, analysis_type):
                 )
 
             # Parse sections from completed text
-            from analysis_engine import _parse_sections, _compute_usage
+            from analysis_engine import _parse_sections
             sections = _parse_sections(full_text)
 
             st.session_state.analysis_result = {
